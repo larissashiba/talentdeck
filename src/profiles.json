@@ -1,0 +1,2963 @@
+[
+    {
+        "id": 1,
+        "nome": "Cássio Almeida",
+        "foto": "https://randomuser.me/api/portraits/men/4.jpg",
+        "cargo": "Desenvolvedor Full Stack Sênior",
+        "resumo": "Engenheiro de Software com mais de 8 anos de experiência no desenvolvimento de aplicações escaláveis utilizando a stack MERN.",
+        "localizacao": "Rio de Janeiro/RJ",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Express.js"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Resolução de Problemas",
+            "Comunicação Visual"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Global Dev Corp",
+                "cargo": "Desenvolvedor Full Stack Sênior",
+                "inicio": "2022-01",
+                "fim": "2025-11",
+                "descricao": "Foco em desenvolvimento front-end com JavaScript e jQuery."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "UFRJ",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Microserviço de Autenticação",
+                "link": "https://link-projeto-4.com",
+                "descricao": "Desenvolvimento de um sistema de autenticação via token JWT em Node.js."
+            }
+        ],
+        "certificacoes": [
+            "AWS Certified Developer",
+            "Docker for Developers",
+            "Certificado Node.js Avançado"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Inglês",
+                "nivel": "Fluente"
+            },
+            {
+                "idioma": "Espanhol",
+                "nivel": "Intermediário"
+            }
+        ],
+        "areaInteresses": [
+            "Arquitetura Serverless",
+            "DevOps"
+        ]
+    },
+
+    {
+        "id": 2,
+        "nome": "Marina Lima",
+        "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+        "cargo": "Analista de Marketing Digital",
+        "resumo": "Especialista em SEO, estratégias de conteúdo e campanhas de performance em mídias pagas.",
+        "localizacao": "Porto Alegre/RS",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "Google Analytics",
+            "SEO",
+            "Mailchimp"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Orientação a Dados",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "ContentFlow Agency",
+                "cargo": "Especialista em SEO",
+                "inicio": "2021-06",
+                "fim": "2024-12",
+                "descricao": "Otimização de mais de 50 blogs e aumento de tráfego orgânico em 60%."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Pós-Graduação em Marketing Estratégico",
+                "instituicao": "ESPM",
+                "ano": 2023
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Redesenho de Funil de Vendas",
+                "link": "https://link-projeto-5.com",
+                "descricao": "Análise e implementação de novo funil de vendas, melhorando a taxa de conversão em 15%."
+            }
+        ],
+        "certificacoes": [
+            "Google Ads Certification"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Ukrainian",
+                "nivel": "Fluente"
+            }
+        ],
+        "areaInteresses": [
+            "Inteligência Artificial no Marketing",
+            "E-commerce"
+        ]
+    },
+
+    {
+        "id": 3,
+        "nome": "Ricardo Mendes",
+        "foto": "https://randomuser.me/api/portraits/men/6.jpg",
+        "cargo": "Gerente de Projetos (PMI)",
+        "resumo": "Gestor de projetos certificado PMP, focado em metodologias Ágeis (Scrum) e gestão de riscos em TI.",
+        "localizacao": "Curitiba/PR",
+        "area": "Gestão",
+        "habilidadesTecnicas": [
+            "Scrum",
+            "PMBOK",
+            "Jira",
+            "Gestão de Orçamento"
+        ],
+        "softSkills": [
+            "Liderança Servidora",
+            "Negociação",
+            "Comunicação Assertiva"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Tech Solutions LTDA",
+                "cargo": "Gerente de Projetos",
+                "inicio": "2015-01",
+                "fim": "2024-11",
+                "descricao": "Responsável por portfólio de 12 projetos, garantindo entregas dentro do prazo e orçamento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "MBA em Gestão de Projetos",
+                "instituicao": "FGV",
+                "ano": 2014
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Implantação de ERP",
+                "link": "https://link-projeto-6.com",
+                "descricao": "Gestão completa da migração do sistema ERP legado para uma solução cloud, dentro do prazo."
+            }
+        ],
+        "certificacoes": [
+            "PMP (Project Management Professional)",
+            "Scrum Master Certified (SMC)"
+        ],
+        "idiomas": [
+            {
+                "idioma": "Alemão",
+                "nivel": "Básico"
+            },
+            {
+                "idioma": "Português",
+                "nivel": "Fluente"
+            }
+        ],
+        "areaInteresses": [
+            "Gestão de Projetos",
+            "Metodologias Ágeis",
+            "Transformação Digital"
+        ]
+    },
+
+    {
+        "id": 4,
+        "nome": "Lucas Amaral Brito",
+        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional especializado em análise de dados e criação de dashboards estratégicos para tomada de decisão.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Tecnologia / Dados",
+        "habilidadesTecnicas": [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Pandas",
+            "Data Cleaning",
+            "ETL"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "DataMind Analytics",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-02",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de dashboards e automações de relatórios para diferentes áreas do negócio."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Ciência de Dados",
+                "instituicao": "PUC Minas",
+                "ano": 2020
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Dashboard Financeiro Power BI",
+                "link": "https://github.com/lucasbrito/dashboard-financeiro",
+                "descricao": "Dashboard completo para acompanhamento de despesas, lucros e previsões."
+            }
+        ],
+        "certificacoes": [
+            "Power BI Specialist",
+            "Python for Data Analysis"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Análise preditiva",
+            "Machine Learning",
+            "Automação de processos"
+        ]
+    },
+
+    {
+        "id": 5,
+        "nome": "Ana Júlia Pires",
+        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+        "cargo": "UX/UI Designer",
+        "resumo": "Designer focada na criação de interfaces intuitivas e centradas no usuário.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Design System",
+            "Prototipagem",
+            "User Research"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação",
+            "Trabalho em equipe"
+        ],
+        "experiencias": [
+            {
+                "empresa": "SkyApps Studio",
+                "cargo": "UX/UI Designer",
+                "inicio": "2020-06",
+                "fim": "Presente",
+                "descricao": "Criação de wireframes, protótipos e interfaces mobile-first."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Design Digital",
+                "instituicao": "UTFPR",
+                "ano": 2019
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Redesign App Fitness",
+                "link": "https://behance.net/anaisdesign",
+                "descricao": "..."
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "nome": "Rafael Morais Diniz",
+        "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+        "cargo": "Engenheiro de Software",
+        "resumo": "Engenheiro focado em soluções de alta performance e escalabilidade.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "React",
+            "AWS",
+            "Docker",
+            "Kafka"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Resolução de problemas",
+            "Pensamento crítico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "CloudBridge",
+                "cargo": "Engenheiro de Software",
+                "inicio": "2019-10",
+                "fim": "2023-07",
+                "descricao": "Desenvolvimento de microserviços e pipelines de dados."
+            },
+            {
+                "empresa": "NextGen Tech",
+                "cargo": "Senior Software Engineer",
+                "inicio": "2023-08",
+                "fim": "Presente",
+                "descricao": "Liderança técnica de times multiculturais e arquitetura de sistemas."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Computação",
+                "instituicao": "USP",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Plataforma de Streaming",
+                "link": "https://github.com/rafaeldiniz/streaming-platform",
+                "descricao": "Sistema escalável com microsserviços e autenticação distribuída."
+            }
+        ],
+        "certificacoes": [
+            "AWS Solutions Architect",
+            "Docker Expert"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Arquitetura de sistemas",
+            "Cloud",
+            "Computação distribuída"
+        ]
+    },
+
+    {
+        "id": 7,
+        "nome": "Beatriz Yamamoto",
+        "foto": "https://randomuser.me/api/portraits/women/56.jpg",
+        "cargo": "Bióloga Ambiental",
+        "resumo": "Especialista em ecossistemas brasileiros e conservação da biodiversidade.",
+        "localizacao": "Manaus, AM, Brasil",
+        "area": "Meio Ambiente",
+        "habilidadesTecnicas": [
+            "Análise de solo",
+            "Coleta de amostras",
+            "Modelagem ambiental"
+        ],
+        "softSkills": [
+            "Observação",
+            "Cooperação",
+            "Resiliência"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Instituto Amazônia Viva",
+                "cargo": "Bióloga de Campo",
+                "inicio": "2018-03",
+                "fim": "Presente",
+                "descricao": "Monitoramento de fauna e flora em áreas de preservação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Biologia",
+                "instituicao": "UFAM",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Mapeamento de Espécies Ameaçadas",
+                "link": "https://github.com/beatrizbio/projeto-mapeamento",
+                "descricao": "Projeto de identificação e catalogação de espécies em risco."
+            }
+        ],
+        "certificacoes": [
+            "Licença de Coleta IBAMA",
+            "Geoprocessamento"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Conservação ambiental",
+            "Ecologia",
+            "Educação científica"
+        ]
+    },
+
+    {
+        "id": 8,
+        "nome": "João Pedro Vasconcelos",
+        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "cargo": "Gestor de Projetos",
+        "resumo": "Profissional experiente em metodologias ágeis e gestão de equipes multidisciplinares.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Gestão",
+        "habilidadesTecnicas": [
+            "Scrum",
+            "Kanban",
+            "PMBOK",
+            "Jira",
+            "Métricas ágeis"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Comunicação",
+            "Tomada de decisão"
+        ],
+        "experiencias": [
+            {
+                "empresa": "GlobalSoft",
+                "cargo": "Project Manager",
+                "inicio": "2020-01",
+                "fim": "Presente",
+                "descricao": "Gestão de projetos tecnológicos de médio e grande porte."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "FGV",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Implementação de Squad Ágil",
+                "link": "https://github.com/joaopvasco/squad",
+                "descricao": "Reestruturação organizacional para adoção de metodologias ágeis."
+            }
+        ],
+        "certificacoes": [
+            "PMP",
+            "Scrum Master Professional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Gestão ágil",
+            "Product Discovery",
+            "Liderança estratégica"
+        ]
+    },
+
+    {
+        "id": 9,
+        "nome": "Fernanda Couto Silva",
+        "foto": "https://randomuser.me/api/portraits/women/74.jpg",
+        "cargo": "Psicóloga Organizacional",
+        "resumo": "Especialista em comportamento humano e desenvolvimento de equipes.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Psicologia",
+        "habilidadesTecnicas": [
+            "Clima organizacional",
+            "Avaliação comportamental",
+            "Treinamento e desenvolvimento"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Escuta ativa",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "HumanPlus",
+                "cargo": "Psicóloga Organizacional",
+                "inicio": "2019-04",
+                "fim": "Presente",
+                "descricao": "Criação de programas de desenvolvimento humano e clima organizacional."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Psicologia",
+                "instituicao": "UFRGS",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Desenvolvimento Interno",
+                "link": "https://github.com/fernandacouto/programa-desenvolvimento",
+                "descricao": "Ferramentas e dinâmicas para equipes corporativas."
+            }
+        ],
+        "certificacoes": [
+            "Coaching Profissional",
+            "Psicologia Organizacional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Espanhol", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Comportamento humano",
+            "Liderança",
+            "Dinâmicas organizacionais"
+        ]
+    },
+
+    {
+        "id": 10,
+        "nome": "Matheus de Andrade Lima",
+        "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+        "cargo": "Administrador Financeiro",
+        "resumo": "Profissional experiente em controle financeiro, análise de custos e planejamento estratégico.",
+        "localizacao": "Salvador, BA, Brasil",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Excel avançado",
+            "Power BI",
+            "Fluxo de caixa",
+            "Contabilidade"
+        ],
+        "softSkills": [
+            "Organização",
+            "Visão analítica",
+            "Comunicação clara"
+        ],
+        "experiencias": [
+            {
+                "empresa": "UniFinanças",
+                "cargo": "Analista Financeiro",
+                "inicio": "2019-05",
+                "fim": "2022-08",
+                "descricao": "Controle financeiro mensal, orçamento e projeções."
+            },
+            {
+                "empresa": "MoneyCorp Brasil",
+                "cargo": "Administrador Financeiro",
+                "inicio": "2022-09",
+                "fim": "Presente",
+                "descricao": "Gerenciamento financeiro integral da empresa."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "UFBA",
+                "ano": 2019
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Controle de Gastos",
+                "link": "https://github.com/matheusfin/controle-gastos",
+                "descricao": "Ferramenta simples para controle financeiro pessoal."
+            }
+        ],
+        "certificacoes": [
+            "Excel Avançado",
+            "Controladoria Prática"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Mercado financeiro",
+            "Controladoria",
+            "Investimentos"
+        ]
+    },
+
+    {
+        "id": 11,
+        "nome": "Daniel Albuquerque Prado",
+        "foto": "https://randomuser.me/api/portraits/men/88.jpg",
+        "cargo": "Fisioterapeuta Esportivo",
+        "resumo": "Profissional focado em prevenção de lesões e reabilitação de atletas.",
+        "localizacao": "Florianópolis, SC, Brasil",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Avaliação postural",
+            "Treinamento funcional",
+            "Reabilitação esportiva"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação clara",
+            "Motivação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Instituto Move",
+                "cargo": "Fisioterapeuta",
+                "inicio": "2018-02",
+                "fim": "Presente",
+                "descricao": "Atendimento a atletas profissionais e amadores."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Fisioterapia",
+                "instituicao": "UDESC",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Prevenção de Lesões",
+                "link": "https://github.com/danielprado/prevent-lesoes",
+                "descricao": "Programa completo para atletas de alta performance."
+            }
+        ],
+        "certificacoes": [
+            "Fisioterapia Esportiva",
+            "Treinamento Funcional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Esportes",
+            "Nutrição",
+            "Performance humana"
+        ]
+    },
+
+    {
+        "id": 12,
+        "nome": "Lucas Amaral Brito",
+        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+        "cargo": "Analista de Dados",
+        "resumo": "Profissional especializado em análise de dados e criação de dashboards estratégicos para tomada de decisão.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Tecnologia / Dados",
+        "habilidadesTecnicas": [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Pandas",
+            "Data Cleaning",
+            "ETL"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "DataMind Analytics",
+                "cargo": "Analista de Dados",
+                "inicio": "2021-02",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de dashboards e automações de relatórios para diferentes áreas do negócio."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Ciência de Dados",
+                "instituicao": "PUC Minas",
+                "ano": 2020
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Dashboard Financeiro Power BI",
+                "link": "https://github.com/lucasbrito/dashboard-financeiro",
+                "descricao": "Dashboard completo para acompanhamento de despesas, lucros e previsões."
+            }
+        ],
+        "certificacoes": [
+            "Power BI Specialist",
+            "Python for Data Analysis"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Análise preditiva",
+            "Machine Learning",
+            "Automação de processos"
+        ]
+    },
+
+    {
+        "id": 13,
+        "nome": "Ana Júlia Pires",
+        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+        "cargo": "UX/UI Designer",
+        "resumo": "Designer focada na criação de interfaces intuitivas e centradas no usuário.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Design System",
+            "Prototipagem",
+            "User Research"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação",
+            "Trabalho em equipe"
+        ],
+        "experiencias": [
+            {
+                "empresa": "SkyApps Studio",
+                "cargo": "UX/UI Designer",
+                "inicio": "2020-06",
+                "fim": "Presente",
+                "descricao": "Criação de wireframes, protótipos e interfaces mobile-first."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Design Digital",
+                "instituicao": "UTFPR",
+                "ano": 2019
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Redesign App Fitness",
+                "link": "https://behance.net/anaisdesign",
+                "descricao": "Projeto completo de redesign para um app de treinos."
+            }
+        ],
+        "certificacoes": [
+            "UX Research Fundamentals",
+            "UI Advanced Design"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Psicologia Cognitiva",
+            "Design System",
+            "Acessibilidade digital"
+        ]
+    },
+
+    {
+        "id": 14,
+        "nome": "Rafael Morais Diniz",
+        "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+        "cargo": "Engenheiro de Software",
+        "resumo": "Engenheiro focado em soluções de alta performance e escalabilidade.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Node.js",
+            "React",
+            "AWS",
+            "Docker",
+            "Kafka"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Resolução de problemas",
+            "Pensamento crítico"
+        ],
+        "experiencias": [
+            {
+                "empresa": "CloudBridge",
+                "cargo": "Engenheiro de Software",
+                "inicio": "2019-10",
+                "fim": "2023-07",
+                "descricao": "Desenvolvimento de microserviços e pipelines de dados."
+            },
+            {
+                "empresa": "NextGen Tech",
+                "cargo": "Senior Software Engineer",
+                "inicio": "2023-08",
+                "fim": "Presente",
+                "descricao": "Liderança técnica de times multiculturais e arquitetura de sistemas."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Computação",
+                "instituicao": "USP",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Plataforma de Streaming",
+                "link": "https://github.com/rafaeldiniz/streaming-platform",
+                "descricao": "Sistema escalável com microsserviços e autenticação distribuída."
+            }
+        ],
+        "certificacoes": [
+            "AWS Solutions Architect",
+            "Docker Expert"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Arquitetura de sistemas",
+            "Cloud",
+            "Computação distribuída"
+        ]
+    },
+
+    {
+        "id": 15,
+        "nome": "Beatriz Yamamoto",
+        "foto": "https://randomuser.me/api/portraits/women/56.jpg",
+        "cargo": "Bióloga Ambiental",
+        "resumo": "Especialista em ecossistemas brasileiros e conservação da biodiversidade.",
+        "localizacao": "Manaus, AM, Brasil",
+        "area": "Meio Ambiente",
+        "habilidadesTecnicas": [
+            "Análise de solo",
+            "Coleta de amostras",
+            "Modelagem ambiental"
+        ],
+        "softSkills": [
+            "Observação",
+            "Cooperação",
+            "Resiliência"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Instituto Amazônia Viva",
+                "cargo": "Bióloga de Campo",
+                "inicio": "2018-03",
+                "fim": "Presente",
+                "descricao": "Monitoramento de fauna e flora em áreas de preservação."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Biologia",
+                "instituicao": "UFAM",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Mapeamento de Espécies Ameaçadas",
+                "link": "https://github.com/beatrizbio/projeto-mapeamento",
+                "descricao": "Projeto de identificação e catalogação de espécies em risco."
+            }
+        ],
+        "certificacoes": [
+            "Licença de Coleta IBAMA",
+            "Geoprocessamento"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Conservação ambiental",
+            "Ecologia",
+            "Educação científica"
+        ]
+    },
+
+    {
+        "id": 16,
+        "nome": "João Pedro Vasconcelos",
+        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "cargo": "Gestor de Projetos",
+        "resumo": "Profissional experiente em metodologias ágeis e gestão de equipes multidisciplinares.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Gestão",
+        "habilidadesTecnicas": [
+            "Scrum",
+            "Kanban",
+            "PMBOK",
+            "Jira",
+            "Métricas ágeis"
+        ],
+        "softSkills": [
+            "Liderança",
+            "Comunicação",
+            "Tomada de decisão"
+        ],
+        "experiencias": [
+            {
+                "empresa": "GlobalSoft",
+                "cargo": "Project Manager",
+                "inicio": "2020-01",
+                "fim": "Presente",
+                "descricao": "Gestão de projetos tecnológicos de médio e grande porte."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "FGV",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Implementação de Squad Ágil",
+                "link": "https://github.com/joaopvasco/squad",
+                "descricao": "Reestruturação organizacional para adoção de metodologias ágeis."
+            }
+        ],
+        "certificacoes": [
+            "PMP",
+            "Scrum Master Professional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Gestão ágil",
+            "Product Discovery",
+            "Liderança estratégica"
+        ]
+    },
+
+    {
+        "id": 17,
+        "nome": "Fernanda Couto Silva",
+        "foto": "https://randomuser.me/api/portraits/women/74.jpg",
+        "cargo": "Psicóloga Organizacional",
+        "resumo": "Especialista em comportamento humano e desenvolvimento de equipes.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Psicologia",
+        "habilidadesTecnicas": [
+            "Clima organizacional",
+            "Avaliação comportamental",
+            "Treinamento e desenvolvimento"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Escuta ativa",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "HumanPlus",
+                "cargo": "Psicóloga Organizacional",
+                "inicio": "2019-04",
+                "fim": "Presente",
+                "descricao": "Criação de programas de desenvolvimento humano e clima organizacional."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Psicologia",
+                "instituicao": "UFRGS",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Desenvolvimento Interno",
+                "link": "https://github.com/fernandacouto/programa-desenvolvimento",
+                "descricao": "Ferramentas e dinâmicas para equipes corporativas."
+            }
+        ],
+        "certificacoes": [
+            "Coaching Profissional",
+            "Psicologia Organizacional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Espanhol", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Comportamento humano",
+            "Liderança",
+            "Dinâmicas organizacionais"
+        ]
+    },
+
+    {
+        "id": 18,
+        "nome": "Matheus de Andrade Lima",
+        "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+        "cargo": "Administrador Financeiro",
+        "resumo": "Profissional experiente em controle financeiro, análise de custos e planejamento estratégico.",
+        "localizacao": "Salvador, BA, Brasil",
+        "area": "Finanças",
+        "habilidadesTecnicas": [
+            "Excel avançado",
+            "Power BI",
+            "Fluxo de caixa",
+            "Contabilidade"
+        ],
+        "softSkills": [
+            "Organização",
+            "Visão analítica",
+            "Comunicação clara"
+        ],
+        "experiencias": [
+            {
+                "empresa": "UniFinanças",
+                "cargo": "Analista Financeiro",
+                "inicio": "2019-05",
+                "fim": "2022-08",
+                "descricao": "Controle financeiro mensal, orçamento e projeções."
+            },
+            {
+                "empresa": "MoneyCorp Brasil",
+                "cargo": "Administrador Financeiro",
+                "inicio": "2022-09",
+                "fim": "Presente",
+                "descricao": "Gerenciamento financeiro integral da empresa."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "UFBA",
+                "ano": 2019
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Controle de Gastos",
+                "link": "https://github.com/matheusfin/controle-gastos",
+                "descricao": "Ferramenta simples para controle financeiro pessoal."
+            }
+        ],
+        "certificacoes": [
+            "Excel Avançado",
+            "Controladoria Prática"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Mercado financeiro",
+            "Controladoria",
+            "Investimentos"
+        ]
+    },
+
+    {
+        "id": 19,
+        "nome": "Daniel Albuquerque Prado",
+        "foto": "https://randomuser.me/api/portraits/men/88.jpg",
+        "cargo": "Fisioterapeuta Esportivo",
+        "resumo": "Profissional focado em prevenção de lesões e reabilitação de atletas.",
+        "localizacao": "Florianópolis, SC, Brasil",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "Avaliação postural",
+            "Treinamento funcional",
+            "Reabilitação esportiva"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação clara",
+            "Motivação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Instituto Move",
+                "cargo": "Fisioterapeuta",
+                "inicio": "2018-02",
+                "fim": "Presente",
+                "descricao": "Atendimento a atletas profissionais e amadores."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Fisioterapia",
+                "instituicao": "UDESC",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Prevenção de Lesões",
+                "link": "https://github.com/danielprado/prevent-lesoes",
+                "descricao": "Programa completo para atletas de alta performance."
+            }
+        ],
+        "certificacoes": [
+            "Fisioterapia Esportiva",
+            "Treinamento Funcional"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Esportes",
+            "Nutrição",
+            "Performance humana"
+        ]
+    },
+
+    {
+        "id": 20,
+        "nome": "Bruno Lima Cardoso",
+        "foto": "https://randomuser.me/api/portraits/men/91.jpg",
+        "cargo": "Analista de Sistemas",
+        "resumo": "Especialista em análise de requisitos e implementação de soluções corporativas.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "SQL",
+            "Java",
+            "Python",
+            "ERP",
+            "Scrum"
+        ],
+        "softSkills": [
+            "Resolução de problemas",
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "SoftTech Solutions",
+                "cargo": "Analista de Sistemas",
+                "inicio": "2017-03",
+                "fim": "Presente",
+                "descricao": "Mapeamento de processos, desenvolvimento de sistemas internos e suporte técnico."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Sistemas de Informação",
+                "instituicao": "USP",
+                "ano": 2016
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Gestão Interna",
+                "link": "https://github.com/brunolima/sistema-gestao",
+                "descricao": "Desenvolvimento de ERP para controle de estoque e processos internos."
+            }
+        ],
+        "certificacoes": [
+            "Scrum Master",
+            "Java Avançado"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Tecnologia Corporativa",
+            "Automação",
+            "Processos de Negócio"
+        ]
+    },
+
+    {
+        "id": 21,
+        "nome": "Camila Martins Oliveira",
+        "foto": "https://randomuser.me/api/portraits/women/92.jpg",
+        "cargo": "Psicóloga Clínica",
+        "resumo": "Profissional dedicada ao bem-estar mental, com experiência em terapia cognitivo-comportamental.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Saúde",
+        "habilidadesTecnicas": [
+            "TCC",
+            "Avaliação Psicológica",
+            "Orientação Profissional"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Escuta ativa",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Clínica Vida Plena",
+                "cargo": "Psicóloga",
+                "inicio": "2015-07",
+                "fim": "Presente",
+                "descricao": "Atendimento clínico individual e em grupo, com foco em saúde mental e emocional."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Psicologia",
+                "instituicao": "PUCRS",
+                "ano": 2014
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Saúde Mental Corporativa",
+                "link": "https://github.com/camilamartins/saude-mental",
+                "descricao": "Criação de workshops e treinamentos para empresas sobre saúde emocional."
+            }
+        ],
+        "certificacoes": [
+            "Terapia Cognitivo-Comportamental",
+            "Mindfulness"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+        ],
+        "areaInteresses": [
+            "Saúde Mental",
+            "Psicologia Organizacional",
+            "Terapias Alternativas"
+        ]
+    },
+
+    {
+        "id": 22,
+        "nome": "Diego Fernandes Souza",
+        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "cargo": "Engenheiro Mecânico",
+        "resumo": "Experiência em design de máquinas, manutenção industrial e automação.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Engenharia",
+        "habilidadesTecnicas": [
+            "SolidWorks",
+            "AutoCAD",
+            "MATLAB",
+            "Análise de Falhas",
+            "Automação"
+        ],
+        "softSkills": [
+            "Raciocínio lógico",
+            "Trabalho em equipe",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Indústria Mecânica Alpha",
+                "cargo": "Engenheiro Mecânico",
+                "inicio": "2016-02",
+                "fim": "Presente",
+                "descricao": "Projetos de máquinas industriais e manutenção preventiva em linhas de produção."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Engenharia Mecânica",
+                "instituicao": "UTFPR",
+                "ano": 2015
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Linha de Produção Automatizada",
+                "link": "https://github.com/diegofsouza/linha-automatizada",
+                "descricao": "Projeto de automação industrial para aumentar eficiência produtiva."
+            }
+        ],
+        "certificacoes": [
+            "SolidWorks Professional",
+            "Lean Manufacturing"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Engenharia de Manufatura",
+            "Automação",
+            "Robótica"
+        ]
+    },
+
+    {
+        "id": 23,
+        "nome": "Fernanda Rocha Lima",
+        "foto": "https://randomuser.me/api/portraits/women/94.jpg",
+        "cargo": "Analista de Marketing",
+        "resumo": "Focada em marketing digital e inbound marketing, gerando leads qualificados e engajamento.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Marketing",
+        "habilidadesTecnicas": [
+            "SEO",
+            "Google Ads",
+            "E-mail Marketing",
+            "Marketing de Conteúdo"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Comunicação",
+            "Análise de dados"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Agência Connect",
+                "cargo": "Analista de Marketing",
+                "inicio": "2018-01",
+                "fim": "Presente",
+                "descricao": "Criação de campanhas digitais e monitoramento de métricas de performance."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "PUC Minas",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Campanha Digital 'Tech Startups'",
+                "link": "https://github.com/fernandarochalim/tech-startups",
+                "descricao": "Campanha focada em aquisição de clientes para startups de tecnologia."
+            }
+        ],
+        "certificacoes": [
+            "Google Ads Certified",
+            "HubSpot Inbound Marketing"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Marketing Digital",
+            "Mídias Sociais",
+            "Branding"
+        ]
+    },
+
+    {
+        "id": 24,
+        "nome": "Leonardo Almeida Santos",
+        "foto": "https://randomuser.me/api/portraits/men/95.jpg",
+        "cargo": "Engenheiro de Software",
+        "resumo": "Desenvolvedor backend com experiência em microserviços, APIs e arquitetura escalável.",
+        "localizacao": "Recife, PE, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "Java",
+            "Spring Boot",
+            "Docker",
+            "AWS",
+            "Kubernetes"
+        ],
+        "softSkills": [
+            "Resolução de problemas",
+            "Trabalho em equipe",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Tech Solutions",
+                "cargo": "Engenheiro de Software",
+                "inicio": "2019-06",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de aplicações escaláveis e manutenção de sistemas corporativos."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Ciência da Computação",
+                "instituicao": "UFPE",
+                "ano": 2018
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "API de Pagamentos",
+                "link": "https://github.com/leonardoalmeida/api-pagamentos",
+                "descricao": "Desenvolvimento de API RESTful para integração de serviços de pagamento."
+            }
+        ],
+        "certificacoes": [
+            "AWS Solutions Architect",
+            "Java Avançado"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Backend Development",
+            "Microservices",
+            "Cloud Computing"
+        ]
+    },
+
+    {
+        "id": 25,
+        "nome": "Marcela Ferreira Dias",
+        "foto": "https://randomuser.me/api/portraits/women/96.jpg",
+        "cargo": "Designer de UX/UI",
+        "resumo": "Especialista em design centrado no usuário, criação de interfaces intuitivas e experiência digital.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Design",
+        "habilidadesTecnicas": [
+            "Figma",
+            "Adobe XD",
+            "Sketch",
+            "User Research",
+            "Prototipagem"
+        ],
+        "softSkills": [
+            "Criatividade",
+            "Empatia",
+            "Comunicação"
+        ],
+        "experiencias": [
+            {
+                "empresa": "UX Studio",
+                "cargo": "Designer UX/UI",
+                "inicio": "2018-09",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de interfaces digitais e testes de usabilidade."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Design Gráfico",
+                "instituicao": "Belas Artes",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "App de Educação Financeira",
+                "link": "https://github.com/marceladiaz/fin-app",
+                "descricao": "Criação de interface intuitiva para aplicativo de finanças pessoais."
+            }
+        ],
+        "certificacoes": [
+            "UX Design Certificate",
+            "Design Thinking"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "UX Design",
+            "Interface Digital",
+            "Prototipagem"
+        ]
+    },
+
+    {
+        "id": 26,
+        "nome": "Ricardo Souza Lima",
+        "foto": "https://randomuser.me/api/portraits/men/97.jpg",
+        "cargo": "Arquiteto de Soluções",
+        "resumo": "Especialista em arquiteturas de software, cloud computing e soluções corporativas escaláveis.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Microservices"
+        ],
+        "softSkills": [
+            "Resolução de problemas",
+            "Comunicação",
+            "Trabalho em equipe"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Cloud Solutions",
+                "cargo": "Arquiteto de Soluções",
+                "inicio": "2017-05",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de arquiteturas escaláveis e consultoria para projetos em nuvem."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Engenharia da Computação",
+                "instituicao": "UFMG",
+                "ano": 2016
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Plataforma de Serviços em Nuvem",
+                "link": "https://github.com/ricardolima/cloud-platform",
+                "descricao": "Desenvolvimento de arquitetura de microserviços para aplicação web."
+            }
+        ],
+        "certificacoes": [
+            "AWS Solutions Architect",
+            "Azure Fundamentals"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Fluente" }
+        ],
+        "areaInteresses": [
+            "Cloud Computing",
+            "Arquitetura de Software",
+            "DevOps"
+        ]
+    },
+
+    {
+        "id": 27,
+        "nome": "Patrícia Almeida Costa",
+        "foto": "https://randomuser.me/api/portraits/women/98.jpg",
+        "cargo": "Especialista em RH",
+        "resumo": "Profissional focada em recrutamento, desenvolvimento de talentos e gestão de pessoas.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Recursos Humanos",
+        "habilidadesTecnicas": [
+            "Recrutamento e Seleção",
+            "Treinamento e Desenvolvimento",
+            "Gestão de Pessoas"
+        ],
+        "softSkills": [
+            "Empatia",
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "RH Solutions",
+                "cargo": "Especialista em RH",
+                "inicio": "2016-03",
+                "fim": "Presente",
+                "descricao": "Gestão de processos de recrutamento, treinamento e programas de engajamento."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração com Ênfase em RH",
+                "instituicao": "PUC PR",
+                "ano": 2015
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Programa de Desenvolvimento de Lideranças",
+                "link": "https://github.com/patriciaalmeida/leadership",
+                "descricao": "Criação de programa de capacitação para líderes internos da empresa."
+            }
+        ],
+        "certificacoes": [
+            "HR Business Partner",
+            "Gestão de Pessoas"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Gestão de Pessoas",
+            "Treinamento Corporativo",
+            "Engajamento de Equipes"
+        ]
+    },
+
+    {
+        "id": 28,
+        "nome": "Fernando Castro Ribeiro",
+        "foto": "https://randomuser.me/api/portraits/men/99.jpg",
+        "cargo": "Analista de Business Intelligence",
+        "resumo": "Especialista em análise de dados e geração de insights estratégicos para empresas.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": [
+            "Power BI",
+            "SQL",
+            "Python",
+            "ETL",
+            "Excel Avançado"
+        ],
+        "softSkills": [
+            "Análise crítica",
+            "Comunicação",
+            "Organização"
+        ],
+        "experiencias": [
+            {
+                "empresa": "Data Insights",
+                "cargo": "Analista BI",
+                "inicio": "2018-01",
+                "fim": "Presente",
+                "descricao": "Criação de dashboards e relatórios estratégicos para tomada de decisão."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Administração com Ênfase em Análise de Dados",
+                "instituicao": "FGV",
+                "ano": 2017
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Dashboard de Vendas Corporativas",
+                "link": "https://github.com/fernandocastro/dashboard-vendas",
+                "descricao": "Painel interativo para análise de performance de vendas."
+            }
+        ],
+        "certificacoes": [
+            "Power BI Certified",
+            "SQL Avançado"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "Business Intelligence",
+            "Data Analytics",
+            "Visualização de Dados"
+        ]
+    },
+
+    {
+        "id": 29,
+        "nome": "Aline Santos Rocha",
+        "foto": "https://randomuser.me/api/portraits/women/99.jpg",
+        "cargo": "Especialista em E-commerce",
+        "resumo": "Profissional focada em gestão de lojas online, estratégias de vendas e marketing digital.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Comércio / Marketing",
+        "habilidadesTecnicas": [
+            "Shopify",
+            "Magento",
+            "Google Ads",
+            "SEO",
+            "Analytics"
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização",
+            "Criatividade"
+        ],
+        "experiencias": [
+            {
+                "empresa": "E-commerce Solutions",
+                "cargo": "Especialista em E-commerce",
+                "inicio": "2017-05",
+                "fim": "Presente",
+                "descricao": "Gestão de lojas online, campanhas digitais e análise de métricas de vendas."
+            }
+        ],
+        "formacao": [
+            {
+                "curso": "Marketing Digital",
+                "instituicao": "FGV",
+                "ano": 2016
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Lançamento de Loja Online",
+                "link": "https://github.com/alinesantos/loja-online",
+                "descricao": "Planejamento e execução de e-commerce para startup de moda."
+            }
+        ],
+        "certificacoes": [
+            "Google Ads Certified",
+            "E-commerce Management"
+        ],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+        ],
+        "areaInteresses": [
+            "E-commerce",
+            "Marketing Digital",
+            "Estratégias de Vendas"
+        ]
+    },
+    
+    {
+        "id": 30,
+        "nome": "Thiago Menezes Silva",
+        "foto": "https://randomuser.me/api/portraits/men/100.jpg",
+        "cargo": "Desenvolvedor Front-End",
+        "resumo": "Especialista em desenvolvimento web, com foco em interfaces responsivas e acessíveis.",
+        "localizacao": "Fortaleza, CE, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+        "softSkills": ["Criatividade", "Comunicação", "Trabalho em equipe"],
+        "experiencias": [
+            {
+                "empresa": "Web Solutions",
+                "cargo": "Desenvolvedor Front-End",
+                "inicio": "2019-03",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de aplicações web interativas e responsivas, com foco na experiência do usuário."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência da Computação",
+                "instituicao": "Unifor",
+                "ano": 2018
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Portal Educacional",
+                "link": "https://github.com/thiagomenezes/portal-educacional",
+                "descricao": "Desenvolvimento de portal interativo para cursos online."
+            }
+    ],
+        "certificacoes": ["React Developer", "JavaScript Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Desenvolvimento Web", "UX/UI", "Tecnologias Front-End"]
+    },
+
+    {
+        "id": 31,
+        "nome": "Juliana Costa Ribeiro",
+        "foto": "https://randomuser.me/api/portraits/women/100.jpg",
+        "cargo": "Engenheira de Dados",
+        "resumo": "Especialista em coleta, tratamento e análise de grandes volumes de dados para suporte à decisão.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Python", "SQL", "ETL", "BigQuery", "Data Warehousing"],
+        "softSkills": ["Resolução de problemas", "Organização", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Data Analytics Corp",
+                "cargo": "Engenheira de Dados",
+                "inicio": "2018-06",
+                "fim": "Presente",
+                "descricao": "Projeto de pipelines de dados, integração de sistemas e otimização de bancos de dados."
+            }
+    ],
+        "formacao": [
+        {
+            "curso": "Engenharia da Computação",
+            "instituicao": "PUCRS",
+            "ano": 2017
+        }
+    ],
+        "projetos": [
+        {
+            "titulo": "Pipeline de Dados Corporativo",
+            "link": "https://github.com/julianaribeiro/data-pipeline",
+            "descricao": "Implementação de pipeline para integração de dados de múltiplas fontes."
+        }
+    ],
+        "certificacoes": ["Google Data Engineer", "Python Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Big Data", "Análise de Dados", "Data Science"]
+    },
+
+    {
+        "id": 32,
+        "nome": "Rafael Souza Gomes",
+        "foto": "https://randomuser.me/api/portraits/men/101.jpg",
+        "cargo": "Consultor Financeiro",
+        "resumo": "Especialista em planejamento financeiro, investimentos e análise de mercado.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Finanças",
+        "habilidadesTecnicas": ["Excel Avançado", "Análise Financeira", "Planejamento Orçamentário", "Investimentos"],
+        "softSkills": ["Raciocínio lógico", "Comunicação", "Negociação"],
+        "experiencias": [
+            {
+                "empresa": "Finance Consulting",
+                "cargo": "Consultor Financeiro",
+                "inicio": "2016-02",
+                "fim": "Presente",
+                "descricao": "Elaboração de relatórios financeiros, planejamento e consultoria para empresas e pessoas físicas."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Administração com ênfase em Finanças",
+                "instituicao": "FGV",
+                "ano": 2015
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Plano de Investimentos Personalizado",
+                "link": "https://github.com/rafaelsouza/investimentos",
+                "descricao": "Desenvolvimento de plano financeiro e carteira de investimentos personalizada."
+            }
+    ],
+        "certificacoes": ["CPA-20", "Excel Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+        "areaInteresses": ["Investimentos", "Finanças Pessoais", "Mercado Financeiro"]
+        },
+
+    {
+        "id": 33,
+        "nome": "Carolina Lima Fernandes",
+        "foto": "https://randomuser.me/api/portraits/women/101.jpg",
+        "cargo": "Engenheira Civil",
+        "resumo": "Profissional especializada em projetos estruturais e gestão de obras residenciais e comerciais.",
+        "localizacao": "Recife, PE, Brasil",
+        "area": "Engenharia",
+        "habilidadesTecnicas": ["AutoCAD", "MS Project", "Orçamentação", "Gestão de Obras", "Estruturas de Concreto"],
+        "softSkills": ["Organização", "Resolução de problemas", "Trabalho em equipe"],
+        "experiencias": [
+            {
+                "empresa": "Construtora Nova Vida",
+                "cargo": "Engenheira Civil",
+                "inicio": "2017-08",
+                "fim": "Presente",
+                "descricao": "Gestão de projetos de construção civil, acompanhamento de obras e controle de orçamento."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia Civil",
+                "instituicao": "UFPE",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Edifício Residencial Moderno",
+                "link": "https://github.com/carolinalima/edificio-residencial",
+                "descricao": "Projeto estrutural e gerenciamento da construção de edifício residencial."
+            }
+    ],
+        "certificacoes": ["AutoCAD Avançado", "Gestão de Projetos"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Engenharia Estrutural", "Construção Civil", "Sustentabilidade"]
+    },
+
+    {
+        "id": 34,
+        "nome": "Gustavo Pereira Lima",
+        "foto": "https://randomuser.me/api/portraits/men/102.jpg",
+        "cargo": "Analista de SEO",
+        "resumo": "Profissional focado em otimização de sites, tráfego orgânico e estratégias de marketing digital.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["SEO", "Google Analytics", "Content Marketing", "SEM", "WordPress"],
+        "softSkills": ["Análise crítica", "Comunicação", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Agência Digital SEO Pro",
+            "cargo": "Analista de SEO",
+            "inicio": "2018-05",
+            "fim": "Presente",
+            "descricao": "Monitoramento de performance de sites, otimização para motores de busca e consultoria em SEO."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "PUC Minas",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Otimização de E-commerce",
+                "link": "https://github.com/gustavopereira/seo-ecommerce",
+                "descricao": "Melhoria de ranking orgânico e performance de loja online."
+            }
+    ],
+        "certificacoes": ["Google Analytics", "SEO Expert"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["SEO", "Marketing Digital", "Tráfego Orgânico"]
+    },
+
+    {
+        "id": 35,
+        "nome": "Larissa Andrade Costa",
+        "foto": "https://randomuser.me/api/portraits/women/102.jpg",
+        "cargo": "Gestora de Projetos",
+        "resumo": "Especialista em planejamento, execução e controle de projetos estratégicos.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Gestão",
+        "habilidadesTecnicas": ["PMBOK", "Scrum", "Kanban", "MS Project", "Gestão de Equipes"],
+        "softSkills": ["Organização", "Comunicação", "Liderança"],
+        "experiencias": [
+            {
+                "empresa": "Projects Consulting",
+                "cargo": "Gestora de Projetos",
+                "inicio": "2017-09",
+                "fim": "Presente",
+                "descricao": "Gerenciamento de projetos estratégicos e acompanhamento de indicadores de performance."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "FGV",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Implantação de ERP Corporativo",
+                "link": "https://github.com/larissacosta/erp-project",
+                "descricao": "Gestão de projeto de implantação de sistema ERP em grande empresa."
+            }
+    ],
+        "certificacoes": ["PMP", "Scrum Master"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Gestão de Projetos", "Planejamento Estratégico", "Metodologias Ágeis"]
+    },
+
+    {
+        "id": 36,
+        "nome": "Vitor Hugo Almeida",
+        "foto": "https://randomuser.me/api/portraits/men/103.jpg",
+        "cargo": "Desenvolvedor Mobile",
+        "resumo": "Especialista em desenvolvimento de aplicativos para Android e iOS, com foco em experiência do usuário.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Flutter", "React Native", "Kotlin", "Swift", "Firebase"],
+        "softSkills": ["Criatividade", "Trabalho em equipe", "Resolução de problemas"],
+        "experiencias": [
+            {
+                "empresa": "Mobile Solutions",
+                "cargo": "Desenvolvedor Mobile",
+                "inicio": "2019-04",
+                "fim": "Presente",
+                "descricao": "Criação de aplicativos móveis, integração com APIs e otimização de performance."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Software",
+                "instituicao": "UTFPR",
+                "ano": 2018
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "App de Delivery Local",
+                "link": "https://github.com/vitorhugo/app-delivery",
+                "descricao": "Aplicativo para delivery integrado com pagamento online e geolocalização."
+            }
+    ],
+        "certificacoes": ["Flutter Developer", "Kotlin Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Desenvolvimento Mobile", "UX/UI", "Aplicativos Híbridos"]
+    },
+
+    {
+        "id": 37,
+        "nome": "Renata Silva Barros",
+        "foto": "https://randomuser.me/api/portraits/women/103.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Especialista em análise de dados, modelagem estatística e aprendizado de máquina.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Python", "R", "Machine Learning", "SQL", "Pandas"],
+        "softSkills": ["Análise crítica", "Comunicação", "Resolução de problemas"],
+        "experiencias": [
+            {
+                "empresa": "Data Science Hub",
+                "cargo": "Cientista de Dados",
+                "inicio": "2018-07",
+                "fim": "Presente",
+                "descricao": "Análise de dados complexos, criação de modelos preditivos e visualização de insights estratégicos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Estatística",
+                "instituicao": "UFRJ",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Modelo Preditivo de Vendas",
+                "link": "https://github.com/renatasilva/modelo-vendas",
+                "descricao": "Criação de modelo para previsão de demanda em e-commerce."
+            }     
+    ],
+        "certificacoes": ["Machine Learning Specialization", "Python Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Data Science", "Machine Learning", "Big Data"]
+    },
+
+    {
+        "id": 38,
+        "nome": "Isabela Santos Lima",
+        "foto": "https://randomuser.me/api/portraits/women/104.jpg",
+        "cargo": "Gestora de Conteúdo",
+        "resumo": "Especialista em criação, curadoria e gestão de conteúdo digital para redes sociais e blogs.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["Content Marketing", "SEO", "WordPress", "Copywriting", "Google Analytics"],
+        "softSkills": ["Criatividade", "Organização", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Digital Content Agency",
+                "cargo": "Gestora de Conteúdo",
+                "inicio": "2017-03",
+                "fim": "Presente",
+                "descricao": "Planejamento de conteúdo, criação de artigos, blogs e gestão de redes sociais."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Comunicação Social",
+                "instituicao": "ESP",
+                "ano": 2016
+        }
+    ],
+        "projetos": [
+            {
+                "titulo": "Blog Corporativo de Saúde",
+                "link": "https://github.com/isabelasantos/blog-saude",
+                "descricao": "Criação e gerenciamento de blog com foco em saúde e bem-estar."
+            }
+    ],
+        "certificacoes": ["Content Marketing Specialist", "SEO Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Marketing de Conteúdo", "SEO", "Redes Sociais"]
+    },
+
+    {
+        "id": 39,
+        "nome": "Eduardo Fernandes Rocha",
+        "foto": "https://randomuser.me/api/portraits/men/104.jpg",
+        "cargo": "Administrador de Redes",
+        "resumo": "Especialista em infraestrutura de TI, segurança de redes e administração de servidores.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Cisco", "Firewall", "Redes LAN/WAN", "Windows Server", "Linux"],
+        "softSkills": ["Organização", "Resolução de problemas", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Tech Networks",
+                "cargo": "Administrador de Redes",
+                "inicio": "2016-05",
+                "fim": "Presente",
+                "descricao": "Configuração e manutenção de redes corporativas, servidores e políticas de segurança."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "UTFPR",
+                "ano": 2015
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Infraestrutura de Escritório Corporativo",
+                "link": "https://github.com/eduardoferreira/infra-office",
+                "descricao": "Implantação de rede corporativa com segurança avançada e monitoramento de tráfego."
+            }
+    ],
+        "certificacoes": ["CCNA", "Linux Administrator"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+        "areaInteresses": ["Redes de Computadores", "Segurança de TI", "Infraestrutura"]
+    },
+
+    {
+        "id": 40,
+        "nome": "Mariana Oliveira Souza",
+        "foto": "https://randomuser.me/api/portraits/women/105.jpg",
+        "cargo": "Analista de Marketing Digital",
+        "resumo": "Especialista em campanhas online, mídia paga e estratégias de conversão.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["Google Ads", "Facebook Ads", "SEO", "Analytics", "Email Marketing"],
+        "softSkills": ["Criatividade", "Organização", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Digital Growth Agency",
+                "cargo": "Analista de Marketing Digital",
+                "inicio": "2019-01",
+                "fim": "Presente",
+                "descricao": "Planejamento, execução e otimização de campanhas digitais em múltiplos canais."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "UFRJ",
+                "ano": 2018
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Campanha de Conversão E-commerce",
+                "link": "https://github.com/marianasouza/campanha-ecommerce",
+                "descricao": "Gestão de campanhas pagas visando aumento de conversão e ROI."
+            }
+    ],
+        "certificacoes": ["Google Ads Certified", "Facebook Blueprint"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+        "areaInteresses": ["Marketing Digital", "Performance", "E-commerce"]
+    },
+
+    {
+        "id": 41,
+        "nome": "Felipe Andrade Lima",
+        "foto": "https://randomuser.me/api/portraits/men/105.jpg",
+        "cargo": "Engenheiro de Software",
+        "resumo": "Desenvolvedor full-stack, com experiência em sistemas web escaláveis e microservices.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Java", "Spring Boot", "Node.js", "React", "Docker", "AWS"],
+        "softSkills": ["Resolução de problemas", "Trabalho em equipe", "Liderança"],
+        "experiencias": [
+            {
+                "empresa": "Tech Innovators",
+                "cargo": "Engenheiro de Software",
+                "inicio": "2017-07",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento e manutenção de aplicações web, APIs e microservices em nuvem."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Software",
+                "instituicao": "UFMG",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Plataforma de Gestão de Tarefas",
+                "link": "https://github.com/felipelima/gestao-tarefas",
+                "descricao": "Sistema web para gestão de projetos e tarefas com integração em nuvem."
+            }
+    ],
+        "certificacoes": ["AWS Certified Developer", "Java SE 11 Developer"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Desenvolvimento Web", "Cloud Computing", "Microservices"]
+    },
+
+    {
+        "id": 42,
+        "nome": "Camila Rocha Santos",
+        "foto": "https://randomuser.me/api/portraits/women/106.jpg",
+        "cargo": "UX/UI Designer",
+        "resumo": "Profissional focada em design de interfaces intuitivas e experiências do usuário.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Design",
+        "habilidadesTecnicas": ["Figma", "Adobe XD", "Sketch", "Prototipagem", "Design Responsivo"],
+        "softSkills": ["Criatividade", "Empatia", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Creative Design Studio",
+                "cargo": "UX/UI Designer",
+                "inicio": "2018-03",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de interfaces digitais e protótipos interativos com foco no usuário."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Design Gráfico",
+                "instituicao": "ESPM",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Aplicativo de Saúde",
+                "link": "https://github.com/camilarocha/app-saude",
+                "descricao": "Criação de interface para aplicativo de monitoramento de saúde com usabilidade intuitiva."
+            }
+    ],
+        "certificacoes": ["UX Design Professional", "Figma Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["UX Design", "UI Design", "Design Thinking"]
+    },
+
+    {
+        "id": 43,
+        "nome": "Leonardo Martins Ferreira",
+        "foto": "https://randomuser.me/api/portraits/men/106.jpg",
+        "cargo": "Analista de Sistemas",
+        "resumo": "Profissional com experiência em análise, modelagem e documentação de sistemas corporativos.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["UML", "SQL", "Java", "ERP", "Jira"],
+        "softSkills": ["Organização", "Resolução de problemas", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "IT Solutions",
+                "cargo": "Analista de Sistemas",
+                "inicio": "2016-09",
+                "fim": "Presente",
+                "descricao": "Análise de requisitos, modelagem de processos e suporte em sistemas corporativos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Sistemas de Informação",
+                "instituicao": "PUCRS",
+                "ano": 2015
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Gestão de Estoque",
+                "link": "https://github.com/leonardomartins/gestao-estoque",
+                "descricao": "Desenvolvimento e implementação de sistema para controle de estoque em tempo real."
+            }
+    ],
+        "certificacoes": ["Analista de Sistemas Certificado", "Java Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Análise de Sistemas", "ERP", "Processos Corporativos"]
+    },
+
+    {
+        "id": 44,
+        "nome": "Beatriz Almeida Costa",
+        "foto": "https://randomuser.me/api/portraits/women/107.jpg",
+        "cargo": "Especialista em Recursos Humanos",
+        "resumo": "Profissional focada em recrutamento, seleção e desenvolvimento de talentos.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "RH",
+        "habilidadesTecnicas": ["Recrutamento e Seleção", "Treinamento e Desenvolvimento", "Clt", "Folha de Pagamento"],
+        "softSkills": ["Empatia", "Comunicação", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "HR Solutions",
+                "cargo": "Especialista em RH",
+                "inicio": "2017-06",
+                "fim": "Presente",
+                "descricao": "Gestão de processos de recrutamento, treinamento e desenvolvimento organizacional."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Psicologia",
+                "instituicao": "PUCPR",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Programa de Integração de Novos Colaboradores",
+                "link": "https://github.com/beatrizalmeida/integracao",
+                "descricao": "Desenvolvimento de programa de integração e capacitação para novos colaboradores."
+            }
+    ],
+        "certificacoes": ["HR Management", "Treinamento e Desenvolvimento"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["RH Estratégico", "Desenvolvimento de Pessoas", "Recrutamento"]
+    },
+
+    {
+        "id": 45,
+        "nome": "Gabriel Nascimento Lima",
+        "foto": "https://randomuser.me/api/portraits/men/107.jpg",
+        "cargo": "Analista de BI",
+        "resumo": "Profissional especializado em análise de dados e construção de dashboards para tomada de decisão.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Power BI", "Tableau", "SQL", "Excel Avançado", "Python"],
+        "softSkills": ["Raciocínio analítico", "Comunicação", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Business Insights",
+                "cargo": "Analista de BI",
+                "inicio": "2018-02",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de dashboards, relatórios e análises estratégicas para clientes corporativos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência da Computação",
+                "instituicao": "USP",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Dashboard de Vendas",
+                "link": "https://github.com/gabrielnascimento/dashboard-vendas",
+                "descricao": "Criação de painel interativo para monitoramento de vendas em tempo real."
+            }
+    ],
+        "certificacoes": ["Power BI Expert", "Tableau Specialist"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Business Intelligence", "Visualização de Dados", "Data Analytics"]
+    },
+
+    {
+        "id": 46,
+        "nome": "Sofia Ribeiro Andrade",
+        "foto": "https://randomuser.me/api/portraits/women/108.jpg",
+        "cargo": "Engenheira de Produção",
+        "resumo": "Profissional especializada em otimização de processos e gestão de operações industriais.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Engenharia",
+        "habilidadesTecnicas": ["Lean Manufacturing", "Six Sigma", "MS Project", "Gestão de Processos", "ERP"],
+        "softSkills": ["Organização", "Resolução de problemas", "Trabalho em equipe"],
+        "experiencias": [
+            {
+                "empresa": "Indústria Alfa",
+                "cargo": "Engenheira de Produção",
+                "inicio": "2016-08",
+                "fim": "Presente",
+                "descricao": "Otimização de processos industriais e implementação de metodologias lean para aumento de eficiência."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Produção",
+                "instituicao": "UFMG",
+                "ano": 2015
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Redução de Custos Operacionais",
+                "link": "https://github.com/sofiaribeiro/reducao-custos",
+                "descricao": "Projeto para reduzir desperdícios e otimizar processos na linha de produção."
+            }
+    ],
+        "certificacoes": ["Lean Six Sigma Green Belt", "Gestão de Processos"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Otimização de Processos", "Produção Industrial", "Lean Manufacturing"]
+    },
+
+    {
+        "id": 47,
+        "nome": "Matheus Santos Oliveira",
+        "foto": "https://randomuser.me/api/portraits/men/108.jpg",
+        "cargo": "Desenvolvedor Back-End",
+        "resumo": "Especialista em desenvolvimento de APIs, microservices e bancos de dados escaláveis.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Node.js", "Java", "Spring Boot", "MongoDB", "PostgreSQL", "Docker"],
+        "softSkills": ["Resolução de problemas", "Organização", "Trabalho em equipe"],
+        "experiencias": [
+            {
+                "empresa": "Tech Solutions",
+                "cargo": "Desenvolvedor Back-End",
+                "inicio": "2017-04",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de APIs e microservices escaláveis com integração a bancos de dados relacionais e não-relacionais."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Software",
+                "instituicao": "UTFPR",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "API de Gestão de Estoque",
+                "link": "https://github.com/matheusoliveira/api-estoque",
+                "descricao": "Criação de API RESTful para gerenciamento de estoque com autenticação e segurança."
+            }     
+    ],
+        "certificacoes": ["Java SE 11 Developer", "Node.js Certified"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Desenvolvimento Back-End", "APIs", "Microservices"]
+    },
+    
+    {
+        "id": 48,
+        "nome": "Patrícia Costa Lima",
+        "foto": "https://randomuser.me/api/portraits/women/109.jpg",
+        "cargo": "Analista de Comunicação",
+        "resumo": "Profissional especializada em comunicação corporativa e estratégias de branding.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Comunicação",
+        "habilidadesTecnicas": ["Assessoria de Imprensa", "Redação", "Gestão de Redes Sociais", "Marketing Digital"],
+        "softSkills": ["Comunicação", "Criatividade", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Agência Comunicação Pro",
+                "cargo": "Analista de Comunicação",
+                "inicio": "2017-01",
+                "fim": "Presente",
+                "descricao": "Planejamento de comunicação interna e externa, gestão de redes sociais e elaboração de campanhas de branding."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Comunicação Social",
+                "instituicao": "UFRJ",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Campanha de Branding Corporativo",
+                "link": "https://github.com/patriciacosta/campanha-branding",
+                "descricao": "Criação de campanhas de branding e identidade corporativa para clientes empresariais."
+            }
+    ],
+        "certificacoes": ["Marketing Digital", "Gestão de Redes Sociais"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Comunicação Corporativa", "Branding", "Marketing Digital"]
+    },
+
+    {
+        "id": 49,
+        "nome": "Ricardo Almeida Santos",
+        "foto": "https://randomuser.me/api/portraits/men/109.jpg",
+        "cargo": "Analista de Segurança da Informação",
+        "resumo": "Profissional especializado em proteção de sistemas, redes e dados corporativos.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Segurança da Informação",
+        "habilidadesTecnicas": ["Firewall", "VPN", "Pentest", "Criptografia", "ISO 27001"],
+        "softSkills": ["Raciocínio lógico", "Resolução de problemas", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Secure Tech",
+                "cargo": "Analista de Segurança da Informação",
+                "inicio": "2018-05",
+                "fim": "Presente",
+                "descricao": "Monitoramento de sistemas, implementação de políticas de segurança e testes de vulnerabilidade."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Tecnologia em Segurança da Informação",
+                "instituicao": "Mackenzie",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Auditoria de Segurança Corporativa",
+                "link": "https://github.com/ricardoalmeida/auditoria-seguranca",
+                "descricao": "Auditoria completa de segurança em rede corporativa, com implementação de melhorias."
+            }
+    ],
+        "certificacoes": ["Certified Information Security Analyst", "Ethical Hacker"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Segurança da Informação", "Cibersegurança", "Pentest"]
+    },
+
+    {
+        "id": 50,
+        "nome": "Ana Clara Mendes",
+        "foto": "https://randomuser.me/api/portraits/women/110.jpg",
+        "cargo": "Desenvolvedora Front-End",
+        "resumo": "Profissional focada em desenvolvimento de interfaces web modernas e responsivas.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["React", "HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+        "softSkills": ["Criatividade", "Trabalho em equipe", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Web Solutions",
+                "cargo": "Desenvolvedora Front-End",
+                "inicio": "2019-03",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de interfaces e integração com APIs RESTful em projetos web."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência da Computação",
+                "instituicao": "USP",
+                "ano": 2018
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Portal de E-commerce",
+                "link": "https://github.com/anaclara/portal-ecommerce",
+                "descricao": "Criação de portal de e-commerce responsivo com integração a gateway de pagamentos."
+            }
+    ],
+        "certificacoes": ["React Developer", "JavaScript Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Desenvolvimento Web", "UI/UX", "Front-End"]
+    },
+
+    {
+        "id": 51,
+        "nome": "Bruno Henrique Teixeira",
+        "foto": "https://randomuser.me/api/portraits/men/110.jpg",
+        "cargo": "Engenheiro de Dados",
+        "resumo": "Especialista em pipelines de dados, big data e otimização de consultas analíticas.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Python", "SQL", "Hadoop", "Spark", "ETL", "AWS"],
+        "softSkills": ["Raciocínio analítico", "Organização", "Resolução de problemas"],
+        "experiencias": [
+            {
+                "empresa": "Data Solutions",
+                "cargo": "Engenheiro de Dados",
+                "inicio": "2018-07",
+                "fim": "Presente",
+                "descricao": "Criação e manutenção de pipelines de dados e suporte à equipe de BI."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência de Dados",
+                "instituicao": "UFMG",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Pipeline de Dados de E-commerce",
+                "link": "https://github.com/brunoteixeira/pipeline-ecommerce",
+                "descricao": "Construção de pipeline para processamento e análise de dados de vendas online."
+            } 
+    ],
+        "certificacoes": ["AWS Data Analytics", "Python for Data Science"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Big Data", "Data Engineering", "Analytics"]
+    },
+
+    {
+        "id": 52,
+        "nome": "Carolina Souza Lima",
+        "foto": "https://randomuser.me/api/portraits/women/111.jpg",
+        "cargo": "Analista de Projetos",
+        "resumo": "Profissional especializada em gestão de projetos e melhoria de processos corporativos.",
+        "localizacao": "Porto Alegre, RS, Brasil",
+        "area": "Gestão",
+        "habilidadesTecnicas": ["PMBOK", "MS Project", "Scrum", "Kanban"],
+        "softSkills": ["Organização", "Liderança", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Corporate Projects",
+                "cargo": "Analista de Projetos",
+                "inicio": "2017-09",
+                "fim": "Presente",
+                "descricao": "Planejamento, acompanhamento e execução de projetos corporativos de médio e grande porte."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Administração",
+                "instituicao": "PUCRS",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Implementação de ERP",
+                "link": "https://github.com/carolinalima/erp-project",
+                "descricao": "Gerenciamento de projeto para implementação de ERP em grande empresa."
+            }
+    ],
+        "certificacoes": ["PMP", "Scrum Master"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Gestão de Projetos", "Processos Corporativos", "PMO"]
+    },
+
+    {
+        "id": 53,
+        "nome": "Diego Fernandes Rocha",
+        "foto": "https://randomuser.me/api/portraits/men/111.jpg",
+        "cargo": "Administrador de Redes",
+        "resumo": "Especialista em configuração, monitoramento e segurança de redes corporativas.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "TI",
+        "habilidadesTecnicas": ["Cisco", "Linux", "Firewall", "VPN", "TCP/IP", "Windows Server"],
+        "softSkills": ["Organização", "Resolução de problemas", "Trabalho em equipe"],
+        "experiencias": [
+            {
+                "empresa": "IT Network Solutions",
+                "cargo": "Administrador de Redes",
+                "inicio": "2016-04",
+                "fim": "Presente",
+                "descricao": "Gerenciamento de infraestrutura de redes e suporte a usuários corporativos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "UTFPR",
+                "ano": 2015
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Reestruturação de Rede Corporativa",
+                "link": "https://github.com/diegorocha/rede-corporativa",
+                "descricao": "Projeto de reestruturação de rede interna para maior segurança e desempenho."
+            }
+    ],
+        "certificacoes": ["CCNA", "CompTIA Network+"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Redes", "Segurança", "Infraestrutura TI"]
+    },
+
+    {
+        "id": 54,
+        "nome": "Elisa Martins Cardoso",
+        "foto": "https://randomuser.me/api/portraits/women/112.jpg",
+        "cargo": "Cientista de Dados",
+        "resumo": "Especialista em análise avançada de dados, machine learning e predição de resultados.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Python", "R", "SQL", "Machine Learning", "Pandas", "Scikit-learn"],
+        "softSkills": ["Raciocínio lógico", "Comunicação", "Curiosidade"],
+        "experiencias": [
+            {
+                "empresa": "Data Intelligence",
+                "cargo": "Cientista de Dados",
+                "inicio": "2018-01",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de modelos preditivos e análises de dados complexos para clientes corporativos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência de Dados",
+                "instituicao": "USP",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Modelo Preditivo de Vendas",
+                "link": "https://github.com/elisa-martins/modelo-vendas",
+                "descricao": "Desenvolvimento de modelo de previsão de vendas usando machine learning."
+            }
+    ],
+        "certificacoes": ["Data Science Professional", "Machine Learning Engineer"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Data Science", "Machine Learning", "Big Data"]
+    },
+
+    {
+        "id": 55,
+        "nome": "Felipe Carvalho Santos",
+        "foto": "https://randomuser.me/api/portraits/men/112.jpg",
+        "cargo": "Consultor Financeiro",
+        "resumo": "Especialista em planejamento financeiro, investimentos e análise de risco.",
+        "localizacao": "Rio de Janeiro, RJ, Brasil",
+        "area": "Finanças",
+        "habilidadesTecnicas": ["Excel Avançado", "Power BI", "Análise Financeira", "Planejamento Financeiro"],
+        "softSkills": ["Organização", "Comunicação", "Resolução de problemas"],
+        "experiencias": [
+            {
+                "empresa": "Finance Consulting",
+                "cargo": "Consultor Financeiro",
+                "inicio": "2017-05",
+                "fim": "Presente",
+                "descricao": "Elaboração de planos financeiros, análise de investimentos e gestão de risco."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Administração com Ênfase em Finanças",
+                "instituicao": "FGV",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Planejamento Financeiro Pessoal",
+                "link": "https://github.com/felipecarvalho/planejamento-financeiro",
+                "descricao": "Desenvolvimento de planilhas e dashboards para controle financeiro pessoal e investimentos."
+            }
+    ],
+        "certificacoes": ["CPA-20", "Planejamento Financeiro Pessoal"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Finanças Pessoais", "Investimentos", "Planejamento Financeiro"]
+    },
+
+    {
+        "id": 56,
+        "nome": "Gabriela Lopes Ferreira",
+        "foto": "https://randomuser.me/api/portraits/women/113.jpg",
+        "cargo": "Marketing Analyst",
+        "resumo": "Profissional focada em análise de mercado, comportamento do consumidor e estratégias de marketing.",
+        "localizacao": "Belo Horizonte, MG, Brasil",
+        "area": "Marketing",
+        "habilidadesTecnicas": ["Google Analytics", "SEO", "SEM", "Marketing Digital", "Excel Avançado"],
+        "softSkills": ["Analítico", "Criatividade", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Market Solutions",
+                "cargo": "Marketing Analyst",
+                "inicio": "2018-06",
+                "fim": "Presente",
+                "descricao": "Análise de dados de campanhas e comportamento do consumidor para otimização de marketing digital."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Marketing",
+                "instituicao": "PUC Minas",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Estudo de Comportamento do Consumidor",
+                "link": "https://github.com/gabrielalopes/consumidor",
+                "descricao": "Projeto de análise de padrões de consumo e tendências de mercado."
+            }
+    ],
+        "certificacoes": ["Google Analytics", "Marketing Digital Avançado"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Marketing Digital", "Análise de Mercado", "Comportamento do Consumidor"]
+    },
+
+    {
+        "id": 57,
+        "nome": "Rafael Gomes Pinto",
+        "foto": "https://randomuser.me/api/portraits/men/113.jpg",
+        "cargo": "Arquiteto de Software",
+        "resumo": "Especialista em arquitetura de sistemas distribuídos e desenvolvimento de soluções escaláveis.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Java", "Spring Boot", "Microservices", "AWS", "Docker", "Kubernetes"],
+        "softSkills": ["Resolução de problemas", "Liderança", "Comunicação"],
+        "experiencias": [
+            {
+                "empresa": "Innovative Systems",
+                "cargo": "Arquiteto de Software",
+                "inicio": "2017-08",
+                "fim": "Presente",
+                "descricao": "Desenho de arquiteturas de sistemas distribuídos, definição de padrões e melhores práticas de desenvolvimento."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Software",
+                "instituicao": "USP",
+                "ano": 2016
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Plataforma de Pagamentos Escalável",
+                "link": "https://github.com/rafaelpinto/plataforma-pagamentos",
+                "descricao": "Desenvolvimento da arquitetura de sistema de pagamentos escalável e seguro."
+            }
+    ],
+        "certificacoes": ["AWS Solutions Architect", "Java Certified Professional"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Arquitetura de Sistemas", "Cloud Computing", "Microservices"]
+    },
+
+    {
+        "id": 58,
+        "nome": "Isabela Nunes Almeida",
+        "foto": "https://randomuser.me/api/portraits/women/114.jpg",
+        "cargo": "Engenheira de Software",
+        "resumo": "Especialista em desenvolvimento de sistemas backend escaláveis e seguros.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Java", "Spring Boot", "Microservices", "Docker", "Kubernetes", "SQL"],
+        "softSkills": ["Resolução de problemas", "Trabalho em equipe", "Organização"],
+        "experiencias": [
+            {
+                "empresa": "Tech Innovators",
+                "cargo": "Engenheira de Software",
+                "inicio": "2019-01",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de APIs RESTful e sistemas distribuídos para clientes corporativos."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Computação",
+                "instituicao": "USP",
+                "ano": 2018
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Gerenciamento de Estoque",
+                "link": "https://github.com/isabelanunes/estoque-system",
+                "descricao": "Desenvolvimento de backend escalável para gerenciamento de estoques."
+            }
+    ],
+        "certificacoes": ["Java Certified Professional", "AWS Developer"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+        "areaInteresses": ["Desenvolvimento Backend", "Arquitetura de Software", "Cloud Computing"]
+    },
+
+    {
+        "id": 59,
+        "nome": "João Victor Ribeiro",
+        "foto": "https://randomuser.me/api/portraits/men/114.jpg",
+        "cargo": "Analista de BI",
+        "resumo": "Profissional focado em análise de dados e geração de insights estratégicos.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Dados",
+        "habilidadesTecnicas": ["Power BI", "SQL", "Excel Avançado", "Tableau", "Python"],
+        "softSkills": ["Analítico", "Comunicação", "Detalhista"],
+        "experiencias": [
+            {
+                "empresa": "Data Analytics Corp",
+                "cargo": "Analista de BI",
+                "inicio": "2018-03",
+                "fim": "Presente",
+                "descricao": "Desenvolvimento de dashboards e relatórios estratégicos para suporte à tomada de decisão."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Ciência da Computação",
+                "instituicao": "PUC-PR",
+                "ano": 2017
+            }
+    ],
+        "projetos": [
+            {
+                "titulo": "Dashboard de Vendas",
+                "link": "https://github.com/joaovictor/dashboard-vendas",
+                "descricao": "Criação de dashboard interativo para análise de vendas e desempenho de produtos."
+            }
+    ],
+        "certificacoes": ["Power BI Certified", "Tableau Specialist"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Business Intelligence", "Data Analytics", "Visualização de Dados"]
+    },
+
+    {
+        "id": 60,
+        "nome": "Larissa Shiba Felix",
+        "foto": "me.jpg",
+        "cargo": "Desenvolvedora IoT / Back-End",
+        "resumo": "Apaixonada por tecnologia e inovação, com experiência em projetos IoT, APIs e integração de sistemas back-end. Buscando oportunidades para aplicar soluções inteligentes em ambientes conectados e inteligentes.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Python", "Node.js", "MQTT", "REST APIs", "ESP32", "Banco de Dados SQL/NoSQL","Docker", "AWS", "Arduino", "Java"],
+        "softSkills": ["Resolução de problemas", "Trabalho em equipe", "Organização", "Pensamento analítico", "Gestão de tempo"],
+        "experiencias": [
+            {
+                "empresa": "InovaTech Solutions",
+                "cargo": "estagiária de Desenvolvimento IoT",
+                "inicio": "2025-10",
+                "fim": "Presente",
+                "descricao": "Estágio em desenvolvimento de soluções IoT e gerenciamento de dispositivos conectados."
+            }
+    ],
+        "formacao": [
+            {
+                "curso": "Engenharia de Software",
+                "instituicao": "FIAP",
+                "ano": 2025
+            }
+        ],
+        "projetos": [
+            {
+                "titulo": "Sistema de Monitoramento de Estoque Inteligente",
+                "link": "https://github.com/larissashiba/smart-stock",
+                "descricao": "Desenvolvimento de um sistema IoT para monitoramento em tempo real de níveis de estoque utilizando sensores de peso conectados e integração com servidor de HTTP."
+    }
+        ],
+        "certificacoes": ["AWS Certified Solutions Architect", "IoT Developer Certification"],
+        "idiomas": [
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Espanhol", "nivel": "Intermediário" },
+            { "idioma": "Inglês", "nivel": "Intermediário" },
+            { "idioma": "Japonês", "nivel": "Básico" }
+    ],
+        "areaInteresses": ["Internet das Coisas", "Desenvolvimento Back-End", "Soluções Inteligentes"]
+} 
+]
+
+
+
