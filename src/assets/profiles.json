@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nome": "Cássio Almeida",
-        "foto": "https://randomuser.me/api/portraits/men/4.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/1.jpg",
         "cargo": "Desenvolvedor Full Stack Sênior",
         "resumo": "Engenheiro de Software com mais de 8 anos de experiência no desenvolvimento de aplicações escaláveis utilizando a stack MERN.",
         "localizacao": "Rio de Janeiro/RJ",
@@ -65,7 +65,7 @@
     {
         "id": 2,
         "nome": "Marina Lima",
-        "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/1.jpg",
         "cargo": "Analista de Marketing Digital",
         "resumo": "Especialista em SEO, estratégias de conteúdo e campanhas de performance em mídias pagas.",
         "localizacao": "Porto Alegre/RS",
@@ -120,71 +120,51 @@
 
     {
         "id": 3,
-        "nome": "Ricardo Mendes",
-        "foto": "https://randomuser.me/api/portraits/men/6.jpg",
-        "cargo": "Gerente de Projetos (PMI)",
-        "resumo": "Gestor de projetos certificado PMP, focado em metodologias Ágeis (Scrum) e gestão de riscos em TI.",
-        "localizacao": "Curitiba/PR",
-        "area": "Gestão",
-        "habilidadesTecnicas": [
-            "Scrum",
-            "PMBOK",
-            "Jira",
-            "Gestão de Orçamento"
-        ],
-        "softSkills": [
-            "Liderança Servidora",
-            "Negociação",
-            "Comunicação Assertiva"
-        ],
+        "nome": "Larissa Shiba Felix",
+        "foto": "https://avatars.githubusercontent.com/u/202713025?v=4",
+        "cargo": "Desenvolvedora IoT / Back-End",
+        "resumo": "Apaixonada por tecnologia e inovação, com experiência em projetos IoT, APIs e integração de sistemas back-end. Buscando oportunidades para aplicar soluções inteligentes em ambientes conectados e inteligentes.",
+        "localizacao": "São Paulo, SP, Brasil",
+        "area": "Tecnologia",
+        "habilidadesTecnicas": ["Python", "Node.js", "MQTT", "REST APIs", "ESP32", "Banco de Dados SQL/NoSQL","Docker", "AWS", "Arduino", "Java"],
+        "softSkills": ["Resolução de problemas", "Trabalho em equipe", "Organização", "Pensamento analítico", "Gestão de tempo"],
         "experiencias": [
             {
-                "empresa": "Tech Solutions LTDA",
-                "cargo": "Gerente de Projetos",
-                "inicio": "2015-01",
-                "fim": "2024-11",
-                "descricao": "Responsável por portfólio de 12 projetos, garantindo entregas dentro do prazo e orçamento."
+                "empresa": "InovaTech Solutions",
+                "cargo": "estagiária de Desenvolvimento IoT",
+                "inicio": "2025-10",
+                "fim": "Presente",
+                "descricao": "Estágio em desenvolvimento de soluções IoT e gerenciamento de dispositivos conectados."
             }
         ],
         "formacao": [
             {
-                "curso": "MBA em Gestão de Projetos",
-                "instituicao": "FGV",
-                "ano": 2014
+                "curso": "Engenharia de Software",
+                "instituicao": "FIAP",
+                "ano": 2028
             }
         ],
         "projetos": [
             {
-                "titulo": "Implantação de ERP",
-                "link": "https://link-projeto-6.com",
-                "descricao": "Gestão completa da migração do sistema ERP legado para uma solução cloud, dentro do prazo."
-            }
+                "titulo": "Sistema de Monitoramento de Estoque Inteligente",
+                "link": "https://github.com/larissashiba/smart-stock",
+                "descricao": "Desenvolvimento de um sistema IoT para monitoramento em tempo real de níveis de estoque utilizando sensores de peso conectados e integração com servidor de HTTP."
+        }
         ],
-        "certificacoes": [
-            "PMP (Project Management Professional)",
-            "Scrum Master Certified (SMC)"
-        ],
+        "certificacoes": ["AWS Certified Solutions Architect", "IoT Developer Certification"],
         "idiomas": [
-            {
-                "idioma": "Alemão",
-                "nivel": "Básico"
-            },
-            {
-                "idioma": "Português",
-                "nivel": "Fluente"
-            }
-        ],
-        "areaInteresses": [
-            "Gestão de Projetos",
-            "Metodologias Ágeis",
-            "Transformação Digital"
-        ]
+            { "idioma": "Português", "nivel": "Nativo" },
+            { "idioma": "Espanhol", "nivel": "Intermediário" },
+            { "idioma": "Inglês", "nivel": "Intermediário" },
+            { "idioma": "Japonês", "nivel": "Básico" }
+    ],
+        "areaInteresses": ["Internet das Coisas", "Desenvolvimento Back-End", "Soluções Inteligentes"]
     },
 
     {
         "id": 4,
         "nome": "Lucas Amaral Brito",
-        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/3.jpg",
         "cargo": "Analista de Dados",
         "resumo": "Profissional especializado em análise de dados e criação de dashboards estratégicos para tomada de decisão.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -243,7 +223,7 @@
     {
         "id": 5,
         "nome": "Ana Júlia Pires",
-        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/2.jpg",
         "cargo": "UX/UI Designer",
         "resumo": "Designer focada na criação de interfaces intuitivas e centradas no usuário.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -287,7 +267,7 @@
     {
         "id": 6,
         "nome": "Rafael Morais Diniz",
-        "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/4.jpg",
         "cargo": "Engenheiro de Software",
         "resumo": "Engenheiro focado em soluções de alta performance e escalabilidade.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -352,7 +332,7 @@
     {
         "id": 7,
         "nome": "Beatriz Yamamoto",
-        "foto": "https://randomuser.me/api/portraits/women/56.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/3.jpg",
         "cargo": "Bióloga Ambiental",
         "resumo": "Especialista em ecossistemas brasileiros e conservação da biodiversidade.",
         "localizacao": "Manaus, AM, Brasil",
@@ -408,7 +388,7 @@
     {
         "id": 8,
         "nome": "João Pedro Vasconcelos",
-        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/5.jpg",
         "cargo": "Gestor de Projetos",
         "resumo": "Profissional experiente em metodologias ágeis e gestão de equipes multidisciplinares.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -466,7 +446,7 @@
     {
         "id": 9,
         "nome": "Fernanda Couto Silva",
-        "foto": "https://randomuser.me/api/portraits/women/74.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/4.jpg",
         "cargo": "Psicóloga Organizacional",
         "resumo": "Especialista em comportamento humano e desenvolvimento de equipes.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -522,7 +502,7 @@
     {
         "id": 10,
         "nome": "Matheus de Andrade Lima",
-        "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/6.jpg",
         "cargo": "Administrador Financeiro",
         "resumo": "Profissional experiente em controle financeiro, análise de custos e planejamento estratégico.",
         "localizacao": "Salvador, BA, Brasil",
@@ -586,7 +566,7 @@
     {
         "id": 11,
         "nome": "Daniel Albuquerque Prado",
-        "foto": "https://randomuser.me/api/portraits/men/88.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/7.jpg",
         "cargo": "Fisioterapeuta Esportivo",
         "resumo": "Profissional focado em prevenção de lesões e reabilitação de atletas.",
         "localizacao": "Florianópolis, SC, Brasil",
@@ -642,7 +622,7 @@
     {
         "id": 12,
         "nome": "Lucas Amaral Brito",
-        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/8.jpg",
         "cargo": "Analista de Dados",
         "resumo": "Profissional especializado em análise de dados e criação de dashboards estratégicos para tomada de decisão.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -701,7 +681,7 @@
     {
         "id": 13,
         "nome": "Ana Júlia Pires",
-        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/5.jpg",
         "cargo": "UX/UI Designer",
         "resumo": "Designer focada na criação de interfaces intuitivas e centradas no usuário.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -758,7 +738,7 @@
     {
         "id": 14,
         "nome": "Rafael Morais Diniz",
-        "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/9.jpg",
         "cargo": "Engenheiro de Software",
         "resumo": "Engenheiro focado em soluções de alta performance e escalabilidade.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -822,64 +802,73 @@
 
     {
         "id": 15,
-        "nome": "Beatriz Yamamoto",
-        "foto": "https://randomuser.me/api/portraits/women/56.jpg",
-        "cargo": "Bióloga Ambiental",
-        "resumo": "Especialista em ecossistemas brasileiros e conservação da biodiversidade.",
-        "localizacao": "Manaus, AM, Brasil",
-        "area": "Meio Ambiente",
+        "nome": "Lucas Ferreira da Cruz",
+        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "cargo": "Engenheiro de Software Sênior",
+        "resumo": "Desenvolvedor full-stack com mais de 8 anos de experiência em arquitetura de microsserviços e desenvolvimento cloud-native. Foco em escalabilidade e performance.",
+        "localizacao": "Curitiba, PR, Brasil",
+        "area": "Tecnologia e Engenharia de Software",
         "habilidadesTecnicas": [
-            "Análise de solo",
-            "Coleta de amostras",
-            "Modelagem ambiental"
+        "Python (Django/Flask)",
+        "React e TypeScript",
+        "Docker e Kubernetes",
+        "AWS (EC2, S3, Lambda, RDS)",
+        "Bancos de Dados NoSQL"
         ],
         "softSkills": [
-            "Observação",
-            "Cooperação",
-            "Resiliência"
+            "Comunicação Técnica",
+            "Mentoria",
+            "Liderança Técnica",
+            "Resolução de Conflitos"
         ],
         "experiencias": [
             {
-                "empresa": "Instituto Amazônia Viva",
-                "cargo": "Bióloga de Campo",
-                "inicio": "2018-03",
+                "empresa": "Tech Solutions Digital",
+                "cargo": "Engenheiro de Software Sênior",
+                "inicio": "2012-03",
                 "fim": "Presente",
-                "descricao": "Monitoramento de fauna e flora em áreas de preservação."
+                "descricao": "Liderança técnica no desenvolvimento e deploy de plataforma de e-commerce usando Python e microsserviços na AWS."
             }
         ],
         "formacao": [
             {
-                "curso": "Biologia",
-                "instituicao": "UFAM",
-                "ano": 2017
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal do Paraná (UFPR)",
+                "ano": 2010
+            },
+            {
+                "curso": "Mestrado em Arquitetura de Software",
+                "instituicao": "USP - São Paulo",
+                "ano": 2022
             }
         ],
         "projetos": [
             {
-                "titulo": "Mapeamento de Espécies Ameaçadas",
-                "link": "https://github.com/beatrizbio/projeto-mapeamento",
-                "descricao": "Projeto de identificação e catalogação de espécies em risco."
+                "titulo": "Plataforma de Monitoramento Cloud",
+                "link": "https://github.com/lucascruz/cloud-monitor-tool",
+                "descricao": "Ferramenta open-source para monitoramento de custos e recursos em ambientes multi-cloud."
             }
         ],
         "certificacoes": [
-            "Licença de Coleta IBAMA",
-            "Geoprocessamento"
+            "AWS Certified Solutions Architect - Associate",
+            "Certified Kubernetes Administrator (CKA)"
         ],
         "idiomas": [
             { "idioma": "Português", "nivel": "Nativo" },
             { "idioma": "Inglês", "nivel": "Intermediário" }
         ],
         "areaInteresses": [
-            "Conservação ambiental",
-            "Ecologia",
-            "Educação científica"
+            "Inteligência Artificial (IA)",
+            "Computação em Nuvem",
+            "DevOps e Automação",
+            "Segurança da Informação"
         ]
     },
 
     {
         "id": 16,
         "nome": "João Pedro Vasconcelos",
-        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/11.jpg",
         "cargo": "Gestor de Projetos",
         "resumo": "Profissional experiente em metodologias ágeis e gestão de equipes multidisciplinares.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -937,7 +926,7 @@
     {
         "id": 17,
         "nome": "Fernanda Couto Silva",
-        "foto": "https://randomuser.me/api/portraits/women/74.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/6.jpg",
         "cargo": "Psicóloga Organizacional",
         "resumo": "Especialista em comportamento humano e desenvolvimento de equipes.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -993,7 +982,7 @@
     {
         "id": 18,
         "nome": "Matheus de Andrade Lima",
-        "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/10.jpg",
         "cargo": "Administrador Financeiro",
         "resumo": "Profissional experiente em controle financeiro, análise de custos e planejamento estratégico.",
         "localizacao": "Salvador, BA, Brasil",
@@ -1057,7 +1046,7 @@
     {
         "id": 19,
         "nome": "Daniel Albuquerque Prado",
-        "foto": "https://randomuser.me/api/portraits/men/88.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/12.jpg",
         "cargo": "Fisioterapeuta Esportivo",
         "resumo": "Profissional focado em prevenção de lesões e reabilitação de atletas.",
         "localizacao": "Florianópolis, SC, Brasil",
@@ -1113,7 +1102,7 @@
     {
         "id": 20,
         "nome": "Bruno Lima Cardoso",
-        "foto": "https://randomuser.me/api/portraits/men/91.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/13.jpg",
         "cargo": "Analista de Sistemas",
         "resumo": "Especialista em análise de requisitos e implementação de soluções corporativas.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -1171,7 +1160,7 @@
     {
         "id": 21,
         "nome": "Camila Martins Oliveira",
-        "foto": "https://randomuser.me/api/portraits/women/92.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/7.jpg",
         "cargo": "Psicóloga Clínica",
         "resumo": "Profissional dedicada ao bem-estar mental, com experiência em terapia cognitivo-comportamental.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -1227,7 +1216,7 @@
     {
         "id": 22,
         "nome": "Diego Fernandes Souza",
-        "foto": "https://randomuser.me/api/portraits/men/93.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/14.jpg",
         "cargo": "Engenheiro Mecânico",
         "resumo": "Experiência em design de máquinas, manutenção industrial e automação.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -1285,7 +1274,7 @@
     {
         "id": 23,
         "nome": "Fernanda Rocha Lima",
-        "foto": "https://randomuser.me/api/portraits/women/94.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/8.jpg",
         "cargo": "Analista de Marketing",
         "resumo": "Focada em marketing digital e inbound marketing, gerando leads qualificados e engajamento.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -1342,7 +1331,7 @@
     {
         "id": 24,
         "nome": "Leonardo Almeida Santos",
-        "foto": "https://randomuser.me/api/portraits/men/95.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/15.jpg",
         "cargo": "Engenheiro de Software",
         "resumo": "Desenvolvedor backend com experiência em microserviços, APIs e arquitetura escalável.",
         "localizacao": "Recife, PE, Brasil",
@@ -1400,7 +1389,7 @@
     {
         "id": 25,
         "nome": "Marcela Ferreira Dias",
-        "foto": "https://randomuser.me/api/portraits/women/96.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/9.jpg",
         "cargo": "Designer de UX/UI",
         "resumo": "Especialista em design centrado no usuário, criação de interfaces intuitivas e experiência digital.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -1458,7 +1447,7 @@
     {
         "id": 26,
         "nome": "Ricardo Souza Lima",
-        "foto": "https://randomuser.me/api/portraits/men/97.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/16.jpg",
         "cargo": "Arquiteto de Soluções",
         "resumo": "Especialista em arquiteturas de software, cloud computing e soluções corporativas escaláveis.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -1516,7 +1505,7 @@
     {
         "id": 27,
         "nome": "Patrícia Almeida Costa",
-        "foto": "https://randomuser.me/api/portraits/women/98.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/10.jpg",
         "cargo": "Especialista em RH",
         "resumo": "Profissional focada em recrutamento, desenvolvimento de talentos e gestão de pessoas.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -1572,7 +1561,7 @@
     {
         "id": 28,
         "nome": "Fernando Castro Ribeiro",
-        "foto": "https://randomuser.me/api/portraits/men/99.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/17.jpg",
         "cargo": "Analista de Business Intelligence",
         "resumo": "Especialista em análise de dados e geração de insights estratégicos para empresas.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -1630,7 +1619,7 @@
     {
         "id": 29,
         "nome": "Aline Santos Rocha",
-        "foto": "https://randomuser.me/api/portraits/women/99.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/11.jpg",
         "cargo": "Especialista em E-commerce",
         "resumo": "Profissional focada em gestão de lojas online, estratégias de vendas e marketing digital.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -1688,7 +1677,7 @@
     {
         "id": 30,
         "nome": "Thiago Menezes Silva",
-        "foto": "https://randomuser.me/api/portraits/men/100.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/18.jpg",
         "cargo": "Desenvolvedor Front-End",
         "resumo": "Especialista em desenvolvimento web, com foco em interfaces responsivas e acessíveis.",
         "localizacao": "Fortaleza, CE, Brasil",
@@ -1729,7 +1718,7 @@
     {
         "id": 31,
         "nome": "Juliana Costa Ribeiro",
-        "foto": "https://randomuser.me/api/portraits/women/100.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/12.jpg",
         "cargo": "Engenheira de Dados",
         "resumo": "Especialista em coleta, tratamento e análise de grandes volumes de dados para suporte à decisão.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -1770,7 +1759,7 @@
     {
         "id": 32,
         "nome": "Rafael Souza Gomes",
-        "foto": "https://randomuser.me/api/portraits/men/101.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/19.jpg",
         "cargo": "Consultor Financeiro",
         "resumo": "Especialista em planejamento financeiro, investimentos e análise de mercado.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -1811,7 +1800,7 @@
     {
         "id": 33,
         "nome": "Carolina Lima Fernandes",
-        "foto": "https://randomuser.me/api/portraits/women/101.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/13.jpg",
         "cargo": "Engenheira Civil",
         "resumo": "Profissional especializada em projetos estruturais e gestão de obras residenciais e comerciais.",
         "localizacao": "Recife, PE, Brasil",
@@ -1852,7 +1841,7 @@
     {
         "id": 34,
         "nome": "Gustavo Pereira Lima",
-        "foto": "https://randomuser.me/api/portraits/men/102.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/20.jpg",
         "cargo": "Analista de SEO",
         "resumo": "Profissional focado em otimização de sites, tráfego orgânico e estratégias de marketing digital.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -1893,7 +1882,7 @@
     {
         "id": 35,
         "nome": "Larissa Andrade Costa",
-        "foto": "https://randomuser.me/api/portraits/women/102.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/14.jpg",
         "cargo": "Gestora de Projetos",
         "resumo": "Especialista em planejamento, execução e controle de projetos estratégicos.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -1934,7 +1923,7 @@
     {
         "id": 36,
         "nome": "Vitor Hugo Almeida",
-        "foto": "https://randomuser.me/api/portraits/men/103.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/21.jpg",
         "cargo": "Desenvolvedor Mobile",
         "resumo": "Especialista em desenvolvimento de aplicativos para Android e iOS, com foco em experiência do usuário.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -1975,7 +1964,7 @@
     {
         "id": 37,
         "nome": "Renata Silva Barros",
-        "foto": "https://randomuser.me/api/portraits/women/103.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/15.jpg",
         "cargo": "Cientista de Dados",
         "resumo": "Especialista em análise de dados, modelagem estatística e aprendizado de máquina.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -2016,7 +2005,7 @@
     {
         "id": 38,
         "nome": "Isabela Santos Lima",
-        "foto": "https://randomuser.me/api/portraits/women/104.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/16.jpg",
         "cargo": "Gestora de Conteúdo",
         "resumo": "Especialista em criação, curadoria e gestão de conteúdo digital para redes sociais e blogs.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2057,7 +2046,7 @@
     {
         "id": 39,
         "nome": "Eduardo Fernandes Rocha",
-        "foto": "https://randomuser.me/api/portraits/men/104.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/22.jpg",
         "cargo": "Administrador de Redes",
         "resumo": "Especialista em infraestrutura de TI, segurança de redes e administração de servidores.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -2098,7 +2087,7 @@
     {
         "id": 40,
         "nome": "Mariana Oliveira Souza",
-        "foto": "https://randomuser.me/api/portraits/women/105.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/17.jpg",
         "cargo": "Analista de Marketing Digital",
         "resumo": "Especialista em campanhas online, mídia paga e estratégias de conversão.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -2139,7 +2128,7 @@
     {
         "id": 41,
         "nome": "Felipe Andrade Lima",
-        "foto": "https://randomuser.me/api/portraits/men/105.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/23.jpg",
         "cargo": "Engenheiro de Software",
         "resumo": "Desenvolvedor full-stack, com experiência em sistemas web escaláveis e microservices.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -2180,7 +2169,7 @@
     {
         "id": 42,
         "nome": "Camila Rocha Santos",
-        "foto": "https://randomuser.me/api/portraits/women/106.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/18.jpg",
         "cargo": "UX/UI Designer",
         "resumo": "Profissional focada em design de interfaces intuitivas e experiências do usuário.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2221,7 +2210,7 @@
     {
         "id": 43,
         "nome": "Leonardo Martins Ferreira",
-        "foto": "https://randomuser.me/api/portraits/men/106.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/24.jpg",
         "cargo": "Analista de Sistemas",
         "resumo": "Profissional com experiência em análise, modelagem e documentação de sistemas corporativos.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -2262,7 +2251,7 @@
     {
         "id": 44,
         "nome": "Beatriz Almeida Costa",
-        "foto": "https://randomuser.me/api/portraits/women/107.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/19.jpg",
         "cargo": "Especialista em Recursos Humanos",
         "resumo": "Profissional focada em recrutamento, seleção e desenvolvimento de talentos.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -2303,7 +2292,7 @@
     {
         "id": 45,
         "nome": "Gabriel Nascimento Lima",
-        "foto": "https://randomuser.me/api/portraits/men/107.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/25.jpg",
         "cargo": "Analista de BI",
         "resumo": "Profissional especializado em análise de dados e construção de dashboards para tomada de decisão.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2344,7 +2333,7 @@
     {
         "id": 46,
         "nome": "Sofia Ribeiro Andrade",
-        "foto": "https://randomuser.me/api/portraits/women/108.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/20.jpg",
         "cargo": "Engenheira de Produção",
         "resumo": "Profissional especializada em otimização de processos e gestão de operações industriais.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -2385,7 +2374,7 @@
     {
         "id": 47,
         "nome": "Matheus Santos Oliveira",
-        "foto": "https://randomuser.me/api/portraits/men/108.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/26.jpg",
         "cargo": "Desenvolvedor Back-End",
         "resumo": "Especialista em desenvolvimento de APIs, microservices e bancos de dados escaláveis.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -2426,7 +2415,7 @@
     {
         "id": 48,
         "nome": "Patrícia Costa Lima",
-        "foto": "https://randomuser.me/api/portraits/women/109.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/21.jpg",
         "cargo": "Analista de Comunicação",
         "resumo": "Profissional especializada em comunicação corporativa e estratégias de branding.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -2467,7 +2456,7 @@
     {
         "id": 49,
         "nome": "Ricardo Almeida Santos",
-        "foto": "https://randomuser.me/api/portraits/men/109.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/27.jpg",
         "cargo": "Analista de Segurança da Informação",
         "resumo": "Profissional especializado em proteção de sistemas, redes e dados corporativos.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2508,7 +2497,7 @@
     {
         "id": 50,
         "nome": "Ana Clara Mendes",
-        "foto": "https://randomuser.me/api/portraits/women/110.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/22.jpg",
         "cargo": "Desenvolvedora Front-End",
         "resumo": "Profissional focada em desenvolvimento de interfaces web modernas e responsivas.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2549,7 +2538,7 @@
     {
         "id": 51,
         "nome": "Bruno Henrique Teixeira",
-        "foto": "https://randomuser.me/api/portraits/men/110.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/28.jpg",
         "cargo": "Engenheiro de Dados",
         "resumo": "Especialista em pipelines de dados, big data e otimização de consultas analíticas.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -2590,7 +2579,7 @@
     {
         "id": 52,
         "nome": "Carolina Souza Lima",
-        "foto": "https://randomuser.me/api/portraits/women/111.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/23.jpg",
         "cargo": "Analista de Projetos",
         "resumo": "Profissional especializada em gestão de projetos e melhoria de processos corporativos.",
         "localizacao": "Porto Alegre, RS, Brasil",
@@ -2631,7 +2620,7 @@
     {
         "id": 53,
         "nome": "Diego Fernandes Rocha",
-        "foto": "https://randomuser.me/api/portraits/men/111.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/29.jpg",
         "cargo": "Administrador de Redes",
         "resumo": "Especialista em configuração, monitoramento e segurança de redes corporativas.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -2672,7 +2661,7 @@
     {
         "id": 54,
         "nome": "Elisa Martins Cardoso",
-        "foto": "https://randomuser.me/api/portraits/women/112.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/24.jpg",
         "cargo": "Cientista de Dados",
         "resumo": "Especialista em análise avançada de dados, machine learning e predição de resultados.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2713,7 +2702,7 @@
     {
         "id": 55,
         "nome": "Felipe Carvalho Santos",
-        "foto": "https://randomuser.me/api/portraits/men/112.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/30.jpg",
         "cargo": "Consultor Financeiro",
         "resumo": "Especialista em planejamento financeiro, investimentos e análise de risco.",
         "localizacao": "Rio de Janeiro, RJ, Brasil",
@@ -2754,7 +2743,7 @@
     {
         "id": 56,
         "nome": "Gabriela Lopes Ferreira",
-        "foto": "https://randomuser.me/api/portraits/women/113.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/25.jpg",
         "cargo": "Marketing Analyst",
         "resumo": "Profissional focada em análise de mercado, comportamento do consumidor e estratégias de marketing.",
         "localizacao": "Belo Horizonte, MG, Brasil",
@@ -2795,7 +2784,7 @@
     {
         "id": 57,
         "nome": "Rafael Gomes Pinto",
-        "foto": "https://randomuser.me/api/portraits/men/113.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/31.jpg",
         "cargo": "Arquiteto de Software",
         "resumo": "Especialista em arquitetura de sistemas distribuídos e desenvolvimento de soluções escaláveis.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2836,7 +2825,7 @@
     {
         "id": 58,
         "nome": "Isabela Nunes Almeida",
-        "foto": "https://randomuser.me/api/portraits/women/114.jpg",
+        "foto": "https://randomuser.me/api/portraits/women/26.jpg",
         "cargo": "Engenheira de Software",
         "resumo": "Especialista em desenvolvimento de sistemas backend escaláveis e seguros.",
         "localizacao": "São Paulo, SP, Brasil",
@@ -2877,7 +2866,7 @@
     {
         "id": 59,
         "nome": "João Victor Ribeiro",
-        "foto": "https://randomuser.me/api/portraits/men/114.jpg",
+        "foto": "https://randomuser.me/api/portraits/men/32.jpg",
         "cargo": "Analista de BI",
         "resumo": "Profissional focado em análise de dados e geração de insights estratégicos.",
         "localizacao": "Curitiba, PR, Brasil",
@@ -2917,45 +2906,65 @@
 
     {
         "id": 60,
-        "nome": "Larissa Shiba Felix",
-        "foto": "me.jpg",
-        "cargo": "Desenvolvedora IoT / Back-End",
-        "resumo": "Apaixonada por tecnologia e inovação, com experiência em projetos IoT, APIs e integração de sistemas back-end. Buscando oportunidades para aplicar soluções inteligentes em ambientes conectados e inteligentes.",
-        "localizacao": "São Paulo, SP, Brasil",
-        "area": "Tecnologia",
-        "habilidadesTecnicas": ["Python", "Node.js", "MQTT", "REST APIs", "ESP32", "Banco de Dados SQL/NoSQL","Docker", "AWS", "Arduino", "Java"],
-        "softSkills": ["Resolução de problemas", "Trabalho em equipe", "Organização", "Pensamento analítico", "Gestão de tempo"],
+        "nome": "Ricardo Mendes",
+        "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+        "cargo": "Gerente de Projetos (PMI)",
+        "resumo": "Gestor de projetos certificado PMP, focado em metodologias Ágeis (Scrum) e gestão de riscos em TI.",
+        "localizacao": "Curitiba/PR",
+        "area": "Gestão",
+        "habilidadesTecnicas": [
+            "Scrum",
+            "PMBOK",
+            "Jira",
+            "Gestão de Orçamento"
+        ],
+        "softSkills": [
+            "Liderança Servidora",
+            "Negociação",
+            "Comunicação Assertiva"
+        ],
         "experiencias": [
             {
-                "empresa": "InovaTech Solutions",
-                "cargo": "estagiária de Desenvolvimento IoT",
-                "inicio": "2025-10",
-                "fim": "Presente",
-                "descricao": "Estágio em desenvolvimento de soluções IoT e gerenciamento de dispositivos conectados."
+                "empresa": "Tech Solutions LTDA",
+                "cargo": "Gerente de Projetos",
+                "inicio": "2015-01",
+                "fim": "2024-11",
+                "descricao": "Responsável por portfólio de 12 projetos, garantindo entregas dentro do prazo e orçamento."
             }
-    ],
+        ],
         "formacao": [
             {
-                "curso": "Engenharia de Software",
-                "instituicao": "FIAP",
-                "ano": 2025
+                "curso": "MBA em Gestão de Projetos",
+                "instituicao": "FGV",
+                "ano": 2014
             }
         ],
         "projetos": [
             {
-                "titulo": "Sistema de Monitoramento de Estoque Inteligente",
-                "link": "https://github.com/larissashiba/smart-stock",
-                "descricao": "Desenvolvimento de um sistema IoT para monitoramento em tempo real de níveis de estoque utilizando sensores de peso conectados e integração com servidor de HTTP."
-    }
+                "titulo": "Implantação de ERP",
+                "link": "https://link-projeto-6.com",
+                "descricao": "Gestão completa da migração do sistema ERP legado para uma solução cloud, dentro do prazo."
+            }
         ],
-        "certificacoes": ["AWS Certified Solutions Architect", "IoT Developer Certification"],
+        "certificacoes": [
+            "PMP (Project Management Professional)",
+            "Scrum Master Certified (SMC)"
+        ],
         "idiomas": [
-            { "idioma": "Português", "nivel": "Nativo" },
-            { "idioma": "Espanhol", "nivel": "Intermediário" },
-            { "idioma": "Inglês", "nivel": "Intermediário" },
-            { "idioma": "Japonês", "nivel": "Básico" }
-    ],
-        "areaInteresses": ["Internet das Coisas", "Desenvolvimento Back-End", "Soluções Inteligentes"]
+            {
+                "idioma": "Alemão",
+                "nivel": "Básico"
+            },
+            {
+                "idioma": "Português",
+                "nivel": "Fluente"
+            }
+        ],
+        "areaInteresses": [
+            "Gestão de Projetos",
+            "Metodologias Ágeis",
+            "Transformação Digital"
+        ]
 } 
 ]
 
